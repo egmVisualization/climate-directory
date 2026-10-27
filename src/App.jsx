@@ -170,9 +170,9 @@ function App() {
           Find newsrooms that cover the environment and climate change. Tell us
           what you care about and where, and we’ll show the organizations doing
           that work. Are we missing a news provider?{' '}
-          <a href="https://forms.gle/Ac2RDqk5fdvLaFXn9">Let us know</a>, and we’ll add them to the directory.
+          <a href="https://forms.gle/your-form-address" target="_blank" rel="noopener">Let us know</a>, and we’ll add them to the directory.
         </p>
-
+    
         {/* ===== Search panel ===== */}
         <form className="search-panel" onSubmit={handleSearch}>
           <div className="search-fields">
