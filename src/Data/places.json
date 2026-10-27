@@ -1,0 +1,345 @@
+[
+  {
+    "place": "Alabama",
+    "alternateNames": [
+      "AL"
+    ]
+  },
+  {
+    "place": "Alaska",
+    "alternateNames": [
+      "AK"
+    ]
+  },
+  {
+    "place": "Arizona",
+    "alternateNames": [
+      "AZ"
+    ]
+  },
+  {
+    "place": "Arkansas",
+    "alternateNames": [
+      "AR"
+    ]
+  },
+  {
+    "place": "California",
+    "alternateNames": [
+      "CA"
+    ]
+  },
+  {
+    "place": "Colorado",
+    "alternateNames": [
+      "CO"
+    ]
+  },
+  {
+    "place": "Connecticut",
+    "alternateNames": [
+      "CT"
+    ]
+  },
+  {
+    "place": "Delaware",
+    "alternateNames": [
+      "DE"
+    ]
+  },
+  {
+    "place": "Florida",
+    "alternateNames": [
+      "FL"
+    ]
+  },
+  {
+    "place": "Georgia",
+    "alternateNames": [
+      "GA"
+    ]
+  },
+  {
+    "place": "Hawai'i",
+    "alternateNames": [
+      "Hawaii",
+      "HI"
+    ]
+  },
+  {
+    "place": "Idaho",
+    "alternateNames": [
+      "ID"
+    ]
+  },
+  {
+    "place": "Illinois",
+    "alternateNames": [
+      "IL"
+    ]
+  },
+  {
+    "place": "Indiana",
+    "alternateNames": [
+      "IN"
+    ]
+  },
+  {
+    "place": "Iowa",
+    "alternateNames": [
+      "IA"
+    ]
+  },
+  {
+    "place": "Kansas",
+    "alternateNames": [
+      "KS"
+    ]
+  },
+  {
+    "place": "Kentucky",
+    "alternateNames": [
+      "KY"
+    ]
+  },
+  {
+    "place": "Louisiana",
+    "alternateNames": [
+      "LA"
+    ]
+  },
+  {
+    "place": "Maine",
+    "alternateNames": [
+      "ME"
+    ]
+  },
+  {
+    "place": "Maryland",
+    "alternateNames": [
+      "MD"
+    ]
+  },
+  {
+    "place": "Massachusetts",
+    "alternateNames": [
+      "MA"
+    ]
+  },
+  {
+    "place": "Michigan",
+    "alternateNames": [
+      "MI"
+    ]
+  },
+  {
+    "place": "Minnesota",
+    "alternateNames": [
+      "MN"
+    ]
+  },
+  {
+    "place": "Mississippi",
+    "alternateNames": [
+      "MS"
+    ]
+  },
+  {
+    "place": "Missouri",
+    "alternateNames": [
+      "MO"
+    ]
+  },
+  {
+    "place": "Montana",
+    "alternateNames": [
+      "MT"
+    ]
+  },
+  {
+    "place": "Nebraska",
+    "alternateNames": [
+      "NE"
+    ]
+  },
+  {
+    "place": "Nevada",
+    "alternateNames": [
+      "NV"
+    ]
+  },
+  {
+    "place": "New Hampshire",
+    "alternateNames": [
+      "NH"
+    ]
+  },
+  {
+    "place": "New Jersey",
+    "alternateNames": [
+      "NJ"
+    ]
+  },
+  {
+    "place": "New Mexico",
+    "alternateNames": [
+      "NM"
+    ]
+  },
+  {
+    "place": "New York",
+    "alternateNames": [
+      "NY"
+    ]
+  },
+  {
+    "place": "North Carolina",
+    "alternateNames": [
+      "NC"
+    ]
+  },
+  {
+    "place": "North Dakota",
+    "alternateNames": [
+      "ND"
+    ]
+  },
+  {
+    "place": "Ohio",
+    "alternateNames": [
+      "OH"
+    ]
+  },
+  {
+    "place": "Oklahoma",
+    "alternateNames": [
+      "OK"
+    ]
+  },
+  {
+    "place": "Oregon",
+    "alternateNames": [
+      "OR"
+    ]
+  },
+  {
+    "place": "Pennsylvania",
+    "alternateNames": [
+      "PA"
+    ]
+  },
+  {
+    "place": "Rhode Island",
+    "alternateNames": [
+      "RI"
+    ]
+  },
+  {
+    "place": "South Carolina",
+    "alternateNames": [
+      "SC"
+    ]
+  },
+  {
+    "place": "South Dakota",
+    "alternateNames": [
+      "SD"
+    ]
+  },
+  {
+    "place": "Tennessee",
+    "alternateNames": [
+      "TN"
+    ]
+  },
+  {
+    "place": "Texas",
+    "alternateNames": [
+      "TX"
+    ]
+  },
+  {
+    "place": "Utah",
+    "alternateNames": [
+      "UT"
+    ]
+  },
+  {
+    "place": "Vermont",
+    "alternateNames": [
+      "VT"
+    ]
+  },
+  {
+    "place": "Virginia",
+    "alternateNames": [
+      "VA"
+    ]
+  },
+  {
+    "place": "Washington",
+    "alternateNames": [
+      "WA",
+      "Washington State"
+    ]
+  },
+  {
+    "place": "West Virginia",
+    "alternateNames": [
+      "WV"
+    ]
+  },
+  {
+    "place": "Wisconsin",
+    "alternateNames": [
+      "WI"
+    ]
+  },
+  {
+    "place": "Wyoming",
+    "alternateNames": [
+      "WY"
+    ]
+  },
+  {
+    "place": "Washington, D.C.",
+    "alternateNames": [
+      "DC",
+      "D.C.",
+      "Washington DC",
+      "District of Columbia"
+    ]
+  },
+  {
+    "place": "Puerto Rico",
+    "alternateNames": [
+      "PR"
+    ]
+  },
+  {
+    "place": "Guam",
+    "alternateNames": [
+      "GU"
+    ]
+  },
+  {
+    "place": "U.S. Virgin Islands",
+    "alternateNames": [
+      "USVI",
+      "Virgin Islands"
+    ]
+  },
+  {
+    "place": "American Samoa",
+    "alternateNames": [
+      "AS"
+    ]
+  },
+  {
+    "place": "Northern Mariana Islands",
+    "alternateNames": [
+      "MP",
+      "CNMI"
+    ]
+  }
+]

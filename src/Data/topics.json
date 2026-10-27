@@ -1,0 +1,148 @@
+[
+  {
+    "topic": "Agriculture & Food Systems",
+    "description": "May include coverage of food and health in relation to agriculture and food systems.",
+    "keywords": [
+      "agriculture",
+      "agricultural",
+      "farm",
+      "farming",
+      "farmer",
+      "food",
+      "crop",
+      "ranch",
+      "ranching",
+      "livestock",
+      "health"
+    ]
+  },
+  {
+    "topic": "Conservation & Land Use",
+    "description": "May include coverage of pollution, citizen action, ecology, and biodiversity in relation to conservation and land use.",
+    "keywords": [
+      "conservation",
+      "land",
+      "land use",
+      "public land",
+      "park",
+      "wildlife",
+      "forest",
+      "species",
+      "pollution",
+      "citizen action",
+      "activism",
+      "ecology",
+      "biodiversity"
+    ]
+  },
+  {
+    "topic": "Data centers",
+    "description": "May include coverage of land use, labor, water, pollution, and citizen action in relation to data centers.",
+    "keywords": [
+      "data center",
+      "datacenter",
+      "artificial intelligence",
+      "land use",
+      "labor",
+      "water",
+      "pollution",
+      "citizen action"
+    ]
+  },
+  {
+    "topic": "Energy",
+    "description": "May include coverage of labor and policy in relation to energy.",
+    "keywords": [
+      "energy",
+      "power",
+      "electricity",
+      "utility",
+      "oil",
+      "gas",
+      "coal",
+      "solar",
+      "wind",
+      "renewable",
+      "nuclear",
+      "labor",
+      "policy"
+    ]
+  },
+  {
+    "topic": "Environmental justice",
+    "description": "May include coverage of segregation, health, citizen action, and effects on specific communities in relation to environmental justice.",
+    "keywords": [
+      "environmental justice",
+      "justice",
+      "equity",
+      "segregation",
+      "frontline",
+      "health",
+      "citizen action",
+      "community"
+    ]
+  },
+  {
+    "topic": "Extreme weather",
+    "description": "May include coverage of fire, flood, heat, warming, health, and sea level rise in relation to extreme weather.",
+    "keywords": [
+      "extreme weather",
+      "weather",
+      "fire",
+      "wildfire",
+      "flood",
+      "flooding",
+      "heat",
+      "warming",
+      "hurricane",
+      "storm",
+      "tornado",
+      "drought",
+      "sea level",
+      "sea level rise",
+      "health"
+    ]
+  },
+  {
+    "topic": "Government & Policy",
+    "description": "May include coverage of regulations and solutions in relation to government policy.",
+    "keywords": [
+      "government",
+      "policy",
+      "regulation",
+      "legislation",
+      "law",
+      "lawmaker",
+      "solutions"
+    ]
+  },
+  {
+    "topic": "Sustainability",
+    "description": "May include coverage of solutions, conservation, and energy in relation to sustainability.",
+    "keywords": [
+      "sustainability",
+      "sustainable",
+      "recycling",
+      "solutions",
+      "conservation",
+      "energy"
+    ]
+  },
+  {
+    "topic": "Water",
+    "description": "May include coverage of pollution, sustainability, and health in relation to water.",
+    "keywords": [
+      "water",
+      "river",
+      "lake",
+      "ocean",
+      "coast",
+      "coastal",
+      "drinking water",
+      "groundwater",
+      "pollution",
+      "sustainability",
+      "health"
+    ]
+  }
+]

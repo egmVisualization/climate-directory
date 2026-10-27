@@ -1,0 +1,2551 @@
+[
+  {
+    "id": 70112,
+    "name": "Adirondack Explorer Inc.",
+    "website": "https://www.adirondackexplorer.org/",
+    "location": "Saranac Lake, NY",
+    "serviceArea": "Multi-state regional",
+    "specificServiceArea": "Adirondack Park",
+    "newsroomType": "Nonprofit 501(c)3",
+    "network": null,
+    "mission": "Adirondack Explorer is the only nonprofit, independent media organization solely dedicated to covering the Adirondack region in Northern New York state. Through our news reporting and analysis, we aim to further the wise stewardship, public enjoyment for all, community vitality and lasting protection of the Adirondack Park.",
+    "topics": [
+      "Conservation & Land Use",
+      "Agriculture & Food Systems",
+      "Energy"
+    ],
+    "states": [
+      "New York"
+    ]
+  },
+  {
+    "id": 44213,
+    "name": "American University",
+    "website": "https://wamu.org/",
+    "location": "Washington, D.C.",
+    "serviceArea": "Multi-state regional",
+    "specificServiceArea": "DMV",
+    "newsroomType": "Public Media",
+    "network": null,
+    "mission": "WAMU connects Washingtonians with each other and the world.",
+    "topics": [
+      "Data centers"
+    ],
+    "states": [
+      "Washington, D.C.",
+      "Virginia",
+      "Maryland"
+    ]
+  },
+  {
+    "id": 21045,
+    "name": "Aspen Journalism",
+    "website": "https://aspenjournalism.org/",
+    "location": "Aspen, CO",
+    "serviceArea": "Hyperlocal/local",
+    "specificServiceArea": "Aspen region",
+    "newsroomType": "Nonprofit 501(c)3",
+    "network": null,
+    "mission": "Aspen Journalism is a nonprofit journalism organization based in Aspen, Colorado. Our mission is to produce investigative and in-depth journalism for those with a stake in the Aspen region, by virtue of their living, voting, owning, working, recreating, or visiting here.",
+    "topics": [
+      "Water",
+      "Environmental justice",
+      "Conservation & Land Use",
+      "Energy",
+      "Extreme weather"
+    ],
+    "states": [
+      "Colorado"
+    ]
+  },
+  {
+    "id": 48868,
+    "name": "Associated Press",
+    "website": "https://apnews.com/",
+    "location": "Global",
+    "serviceArea": "Global",
+    "specificServiceArea": null,
+    "newsroomType": "Nonprofit 501(c)3",
+    "network": null,
+    "mission": "The Associated Press is an independent global news organization dedicated to factual reporting. Through more than 175 years of social, political and technological change, AP has been the only global news organization that operates as an independent not-for-profit. We reinvest every dollar we make into the work we do and we don’t have owners, investors or government oversight. We are governed by the AP Executive Leadership Team and the AP Board of Directors, who provides guidance according to AP bylaws.",
+    "topics": [
+      "Agriculture & Food Systems",
+      "Sustainability",
+      "Conservation & Land Use",
+      "Energy",
+      "Environmental justice",
+      "Government & Policy",
+      "Extreme weather"
+    ],
+    "states": []
+  },
+  {
+    "id": 12395,
+    "name": "Bay Journal (Bay Journal Media)",
+    "website": "https://www.bayjournal.com/",
+    "location": "Various (watershed-wide)",
+    "serviceArea": "Multi-state regional",
+    "specificServiceArea": "Chesapeake Bay watershed (MD, VA, PA, DE, WV, NY)",
+    "newsroomType": "Nonprofit 501(c)3",
+    "network": null,
+    "mission": "The Chesapeake Bay Journal is the only media outlet dedicated to environmental issues affecting the Chesapeake Bay watershed.",
+    "topics": [
+      "Water",
+      "Government & Policy",
+      "Extreme weather",
+      "Energy",
+      "Conservation & Land Use",
+      "Sustainability",
+      "Environmental justice"
+    ],
+    "states": [
+      "Maryland",
+      "Virginia",
+      "Pennsylvania",
+      "Delaware",
+      "West Virginia",
+      "New York"
+    ]
+  },
+  {
+    "id": 74510,
+    "name": "bioGraphic",
+    "website": "https://www.biographic.com/",
+    "location": "San Francisco, CA",
+    "serviceArea": "Global",
+    "specificServiceArea": null,
+    "newsroomType": "Nonprofit 501(c)3",
+    "network": null,
+    "mission": "bioGraphic is an independent, nonprofit magazine that publishes in-depth stories about conservation and biodiversity around the world.",
+    "topics": [
+      "Conservation & Land Use",
+      "Sustainability",
+      "Water"
+    ],
+    "states": []
+  },
+  {
+    "id": 60447,
+    "name": "Blue Ridge Public Radio (BPR News)",
+    "website": "https://www.bpr.org/",
+    "location": "Asheville, NC",
+    "serviceArea": "Hyperlocal/local",
+    "specificServiceArea": "Western North Carolina",
+    "newsroomType": "Public Media",
+    "network": "Grist",
+    "mission": "Blue Ridge Public Radio creates and curates content that informs, inspires, connects, and reflects the people and places of Western North Carolina. BPR cultivates a more engaged, curious, and empathetic public by listening deeply and embracing diversity.",
+    "topics": [
+      "Conservation & Land Use",
+      "Extreme weather",
+      "Government & Policy",
+      "Data centers"
+    ],
+    "states": [
+      "North Carolina"
+    ]
+  },
+  {
+    "id": 40111,
+    "name": "Boise State Public Radio",
+    "website": "https://www.boisestatepublicradio.org/",
+    "location": "Boise, ID",
+    "serviceArea": "State",
+    "specificServiceArea": "Idaho",
+    "newsroomType": "Public Media",
+    "network": "Mountain West",
+    "mission": "Engage minds. Empower communities.",
+    "topics": [
+      "Government & Policy",
+      "Extreme weather",
+      "Water",
+      "Conservation & Land Use"
+    ],
+    "states": [
+      "Idaho"
+    ]
+  },
+  {
+    "id": 37518,
+    "name": "Braided River",
+    "website": "https://www.braidedriver.org/",
+    "location": "Seattle WA",
+    "serviceArea": "U.S.",
+    "specificServiceArea": null,
+    "newsroomType": "Nonprofit 501(c)3",
+    "network": null,
+    "mission": "Braided River weaves together exquisite photography and powerful stories that inspire a sense of wonder and responsibility for wild and sacred lands– leading to thriving communities in balance with the natural world.",
+    "topics": [
+      "Conservation & Land Use"
+    ],
+    "states": []
+  },
+  {
+    "id": 88489,
+    "name": "Bulletin of the Atomic Scientists",
+    "website": "https://thebulletin.org/",
+    "location": "Chicago, IL",
+    "serviceArea": "U.S.",
+    "specificServiceArea": null,
+    "newsroomType": "Nonprofit 501(c)3",
+    "network": null,
+    "mission": "The Bulletin equips the public, policymakers, and scientists with the information needed to reduce man-made threats to our existence.",
+    "topics": [
+      "Government & Policy",
+      "Extreme weather",
+      "Energy"
+    ],
+    "states": []
+  },
+  {
+    "id": 50801,
+    "name": "CalMatters",
+    "website": "https://calmatters.org/",
+    "location": "Sacramento, CA",
+    "serviceArea": "State",
+    "specificServiceArea": "California",
+    "newsroomType": "Nonprofit 501(c)3",
+    "network": null,
+    "mission": "To improve California’s democracy by making its government more transparent and accountable and giving Californians the information they need to understand and engage with that government.",
+    "topics": [
+      "Government & Policy",
+      "Conservation & Land Use",
+      "Extreme weather",
+      "Environmental justice",
+      "Water"
+    ],
+    "states": [
+      "California"
+    ]
+  },
+  {
+    "id": 97937,
+    "name": "Canary Media Inc",
+    "website": "https://www.canarymedia.com/",
+    "location": "Asheville, NC",
+    "serviceArea": "U.S.",
+    "specificServiceArea": null,
+    "newsroomType": "Nonprofit 501(c)3",
+    "network": null,
+    "mission": "Canary Media is an independent, nonprofit newsroom covering the transition to clean energy and solutions to the climate crisis. We report on how the world is decarbonizing — in electricity, transportation, buildings, and industry — with a critical focus on finding out what works and what doesn’t. Through uncompromising reporting, our journalists dig into the ways policymakers, businesses, investors, and communities are moving toward a clean and equitable energy future.",
+    "topics": [
+      "Energy",
+      "Sustainability"
+    ],
+    "states": []
+  },
+  {
+    "id": 47353,
+    "name": "Capital & Main",
+    "website": "https://capitalandmain.com/",
+    "location": "Los Angeles, CA",
+    "serviceArea": "U.S.",
+    "specificServiceArea": null,
+    "newsroomType": "Nonprofit 501(c)3",
+    "network": null,
+    "mission": "Capital & Main is an award-winning nonprofit publication whose mission is to educate the public on matters of importance such as economic inequality, climate change, health care, threats to democracy, hate and extremism and immigration. We produce investigative reporting, news features and analysis in California and across the country. Capital & Main’s stories are co-published in hundreds of media outlets, including The Guardian, USA Today, Fortune, Fast Company and Rolling Stone.",
+    "topics": [
+      "Extreme weather",
+      "Data centers",
+      "Energy"
+    ],
+    "states": []
+  },
+  {
+    "id": 31383,
+    "name": "Center for Public Integrity",
+    "website": "https://publicintegrity.org/",
+    "location": "Washington, D.C.",
+    "serviceArea": "U.S.",
+    "specificServiceArea": null,
+    "newsroomType": "Nonprofit 501(c)3",
+    "network": null,
+    "mission": "Public Integrity seeks to counter the corrosive effects of inequality by holding powerful interests accountable and equipping the public with knowledge to drive change. We are an independent, nonpartisan and nonprofit news organization dedicated to investigating systems and circumstances that contribute to inequality in our country.",
+    "topics": [
+      "Environmental justice",
+      "Extreme weather",
+      "Agriculture & Food Systems",
+      "Conservation & Land Use"
+    ],
+    "states": []
+  },
+  {
+    "id": 48926,
+    "name": "Center for Rural Strategies Inc",
+    "website": "https://dailyyonder.com/",
+    "location": "Whitesburg, KY",
+    "serviceArea": "U.S.",
+    "specificServiceArea": "Rural U.S.",
+    "newsroomType": "Nonprofit 501(c)3",
+    "network": null,
+    "mission": "The Daily Yonder provides news, commentary, and analysis about and for rural America.",
+    "topics": [
+      "Extreme weather",
+      "Conservation & Land Use",
+      "Agriculture & Food Systems",
+      "Data centers",
+      "Government & Policy",
+      "Energy",
+      "Environmental justice"
+    ],
+    "states": []
+  },
+  {
+    "id": 94911,
+    "name": "Central Florida Public Media (WMFE)",
+    "website": "https://www.cfpublic.org/",
+    "location": "Orlando, FL",
+    "serviceArea": "Hyperlocal/local",
+    "specificServiceArea": "Central Florida",
+    "newsroomType": "Public Media",
+    "network": null,
+    "mission": "Central Florida Public Media connects & empowers our region through trustworthy, independent journalism and thoughtful conversation rooted in fact.",
+    "topics": [
+      "Conservation & Land Use",
+      "Extreme weather",
+      "Sustainability",
+      "Agriculture & Food Systems",
+      "Government & Policy"
+    ],
+    "states": [
+      "Florida"
+    ]
+  },
+  {
+    "id": 36706,
+    "name": "Centro De Periodismo Investigativo Inc",
+    "website": "https://periodismoinvestigativo.com/",
+    "location": "San Juan, PR",
+    "serviceArea": "Hyperlocal/local",
+    "specificServiceArea": "Puerto Rico",
+    "newsroomType": "Nonprofit 501(c)3",
+    "network": null,
+    "mission": "El CPI reconoce que el requisito fundamental para una verdadera democracia es que la ciudadanía esté bien informada y que existan entidades independientes con la capacidad de fiscalizar los poderes que accionan en la sociedad, sean públicos o privados.",
+    "topics": [
+      "Energy",
+      "Extreme weather",
+      "Water"
+    ],
+    "states": [
+      "Puerto Rico"
+    ]
+  },
+  {
+    "id": 23992,
+    "name": "Circle of Blue",
+    "website": "https://www.circleofblue.org/",
+    "location": "Traverse City, MI",
+    "serviceArea": "U.S.",
+    "specificServiceArea": null,
+    "newsroomType": "Nonprofit 501(c)3",
+    "network": null,
+    "mission": "Circle of Blue is more than one of the world’s premier water newsrooms that provides policymakers, business leaders, and everyday citizens with an authoritative, independent, and world-renowned source for data-driven water reporting and classic journalism. We are also a new kind of systems-driven media organization — anchored by partnerships and collaborations with communities, governments, media, foundations, and the private sector. Circle of Blue serves as a trusted convenor that works across sectors to connect diverse stakeholders and create the synergies needed to accelerate global progress toward climate-resilient water security.",
+    "topics": [
+      "Water",
+      "Agriculture & Food Systems",
+      "Energy",
+      "Government & Policy",
+      "Sustainability",
+      "Conservation & Land Use"
+    ],
+    "states": []
+  },
+  {
+    "id": 76407,
+    "name": "Civil Eats",
+    "website": "https://civileats.com/",
+    "location": "Cotati, CA",
+    "serviceArea": "U.S.",
+    "specificServiceArea": null,
+    "newsroomType": "Nonprofit 501(c)3",
+    "network": null,
+    "mission": "Civil Eats’ mission is to broaden and deepen the conversation around U.S. food and agriculture by amplifying underrepresented voices, highlighting positive food system solutions and the committed people behind them, and holding power to account, particularly government officials and corporations.",
+    "topics": [
+      "Agriculture & Food Systems",
+      "Extreme weather",
+      "Conservation & Land Use",
+      "Water",
+      "Government & Policy",
+      "Environmental justice"
+    ],
+    "states": []
+  },
+  {
+    "id": 48346,
+    "name": "Climate Central, Inc.",
+    "website": "https://www.climatecentral.org/",
+    "location": "Princeton, NJ",
+    "serviceArea": "Global",
+    "specificServiceArea": null,
+    "newsroomType": "Nonprofit 501(c)3",
+    "network": null,
+    "mission": "Climate Central communicates climate change science, effects, and solutions to the public and decision-makers.",
+    "topics": [
+      "Extreme weather",
+      "Sustainability"
+    ],
+    "states": []
+  },
+  {
+    "id": 39553,
+    "name": "Colorado Public Radio (CPR News)",
+    "website": "https://www.cpr.org/news/",
+    "location": "Denver, CO",
+    "serviceArea": "State",
+    "specificServiceArea": "Colorado",
+    "newsroomType": "Public Media",
+    "network": null,
+    "mission": "To inform, inspire and entertain all Coloradans.",
+    "topics": [
+      "Government & Policy",
+      "Conservation & Land Use",
+      "Water"
+    ],
+    "states": [
+      "Colorado"
+    ]
+  },
+  {
+    "id": 35290,
+    "name": "Columbia Insight",
+    "website": "https://columbiainsight.org/",
+    "location": "Hood River, OR",
+    "serviceArea": "Multi-state regional",
+    "specificServiceArea": "Pacific Northwest",
+    "newsroomType": "Nonprofit 501(c)3",
+    "network": null,
+    "mission": "Columbia Insight’s mission is to inform and inspire readers with original, balanced journalism about environmental issues affecting the Pacific Northwest with a special focus on the Columbia River Basin.",
+    "topics": [
+      "Conservation & Land Use",
+      "Energy",
+      "Water",
+      "Extreme weather"
+    ],
+    "states": [
+      "Oregon",
+      "Washington",
+      "Montana",
+      "Idaho",
+      "Wyoming",
+      "Utah"
+    ]
+  },
+  {
+    "id": 18240,
+    "name": "Community Radio for Norther Colorado",
+    "website": "https://www.kunc.org/",
+    "location": "Greeley, CO",
+    "serviceArea": "Hyperlocal/local",
+    "specificServiceArea": "Northern Colorado",
+    "newsroomType": "Public Media",
+    "network": "Mountain West",
+    "mission": "At KUNC, our mission is simple: to serve the diverse communities of Northern Colorado by delivering independent, insightful, and inclusive journalism. We believe in the power of storytelling to foster understanding, empathy, and connection, and we're committed to producing content that reflects the voices and experiences of our region.",
+    "topics": [
+      "Water",
+      "Extreme weather",
+      "Conservation & Land Use"
+    ],
+    "states": [
+      "Colorado"
+    ]
+  },
+  {
+    "id": 60312,
+    "name": "Connecticut Public (WNPR)",
+    "website": "https://www.ctpublic.org/",
+    "location": "Hartford, CT",
+    "serviceArea": "State",
+    "specificServiceArea": "Connecticut",
+    "newsroomType": "Public Media",
+    "network": null,
+    "mission": "We will inform, educate and inspire the people of Connecticut, connecting and empowering them through outstanding journalism, storytelling, education and experiences, to make our state a more extraordinary place to live, work and play.",
+    "topics": [
+      "Data centers",
+      "Agriculture & Food Systems",
+      "Conservation & Land Use",
+      "Extreme weather"
+    ],
+    "states": [
+      "Connecticut"
+    ]
+  },
+  {
+    "id": 80809,
+    "name": "Deceleration News",
+    "website": "https://deceleration.news/",
+    "location": "San Antonio, TX",
+    "serviceArea": "State",
+    "specificServiceArea": "San Antonio",
+    "newsroomType": "Nonprofit 501(c)3",
+    "network": null,
+    "mission": "Deceleration is an online journal of environmental justice growing solutions to an overheating world.",
+    "topics": [
+      "Extreme weather",
+      "Environmental justice",
+      "Energy",
+      "Sustainability"
+    ],
+    "states": [
+      "Texas"
+    ]
+  },
+  {
+    "id": 31038,
+    "name": "Deep South Today",
+    "website": "https://deepsouthtoday.org/",
+    "location": "Jackson, MS",
+    "serviceArea": "Multi-state regional",
+    "specificServiceArea": "Deep South",
+    "newsroomType": "Nonprofit 501(c)3",
+    "network": null,
+    "mission": "Deep South Today is a nonprofit network of local newsrooms that includes The Current, The Garrison Project, Mississippi Today and Verite News.",
+    "topics": [
+      "Data centers",
+      "Conservation & Land Use",
+      "Extreme weather",
+      "Water",
+      "Government & Policy"
+    ],
+    "states": [
+      "Mississippi",
+      "Louisiana",
+      "Arkansas"
+    ]
+  },
+  {
+    "id": 75393,
+    "name": "Drilled",
+    "website": "https://drilled.media/abouthttps://drilled.media/about",
+    "location": null,
+    "serviceArea": "Global",
+    "specificServiceArea": null,
+    "newsroomType": "Nonprofit 501(c)3",
+    "network": null,
+    "mission": "We are a global multimedia reporting project focused on climate accountability.",
+    "topics": [
+      "Environmental justice",
+      "Extreme weather",
+      "Energy",
+      "Government & Policy",
+      "Sustainability"
+    ],
+    "states": []
+  },
+  {
+    "id": 80012,
+    "name": "ecoRI News",
+    "website": "https://ecori.org/",
+    "location": "Providence, RI",
+    "serviceArea": "State",
+    "specificServiceArea": "Rhode Island",
+    "newsroomType": "Nonprofit 501(c)3",
+    "network": null,
+    "mission": "ecoRI News is dedicated to reporting on environmental and social justice issues in southern New England. Through our reporting, we create a more informed public and provide individuals with the information they need to be better stewards of their environment.",
+    "topics": [
+      "Conservation & Land Use",
+      "Energy",
+      "Environmental justice",
+      "Agriculture & Food Systems",
+      "Water"
+    ],
+    "states": [
+      "Rhode Island"
+    ]
+  },
+  {
+    "id": 50898,
+    "name": "Environment News Trust",
+    "website": "https://environmentnews.7staging.com/",
+    "location": "Charlotte, NC",
+    "serviceArea": "U.S.",
+    "specificServiceArea": null,
+    "newsroomType": "Nonprofit 501(c)3",
+    "network": null,
+    "mission": "We are a team of veteran journalists cutting through the noise to bring you fact-based storytelling about conservation and the environment.",
+    "topics": [
+      "Conservation & Land Use",
+      "Water"
+    ],
+    "states": []
+  },
+  {
+    "id": 17816,
+    "name": "Flatwater Free Press",
+    "website": "https://flatwaterfreepress.org/",
+    "location": "Omaha, NE",
+    "serviceArea": "State",
+    "specificServiceArea": "Nebraska",
+    "newsroomType": "Nonprofit 501(c)3",
+    "network": "Grist",
+    "mission": "The Flatwater Free Press is Nebraska's first independent, nonprofit newsroom focused on investigations and feature stories, including a dedicated climate and environment reporter.",
+    "topics": [
+      "Energy",
+      "Data centers",
+      "Conservation & Land Use",
+      "Water",
+      "Environmental justice"
+    ],
+    "states": [
+      "Nebraska"
+    ]
+  },
+  {
+    "id": 19514,
+    "name": "Floodlight Inc",
+    "website": "https://floodlightnews.org/",
+    "location": "Washington, DC",
+    "serviceArea": "U.S.",
+    "specificServiceArea": null,
+    "newsroomType": "Nonprofit 501(c)3",
+    "network": null,
+    "mission": "Floodlight is an independent, nonpartisan newsroom that investigates the corporations and political interests stalling climate action.",
+    "topics": [
+      "Government & Policy",
+      "Energy",
+      "Data centers",
+      "Conservation & Land Use",
+      "Environmental justice"
+    ],
+    "states": []
+  },
+  {
+    "id": 16023,
+    "name": "Food and Environment Reporting Network",
+    "website": "https://thefern.org/",
+    "location": "New York, NY",
+    "serviceArea": "U.S.",
+    "specificServiceArea": null,
+    "newsroomType": "Nonprofit 501(c)3",
+    "network": null,
+    "mission": "The Food & Environment Reporting Network (FERN) is the first independent, nonprofit news organization that produces award-winning journalism on food, agriculture, and environmental health through partnerships with national and regional media outlets in text, audio, and video. FERN seeks to make the food system more sustainable and equitable through powerful journalism and storytelling.",
+    "topics": [
+      "Agriculture & Food Systems",
+      "Conservation & Land Use",
+      "Water",
+      "Environmental justice"
+    ],
+    "states": []
+  },
+  {
+    "id": 40028,
+    "name": "Fresnoland Media",
+    "website": "https://fresnoland.org/",
+    "location": "Fresno, CA",
+    "serviceArea": "Hyperlocal/local",
+    "specificServiceArea": "central San Joaquin Valley",
+    "newsroomType": "Nonprofit 501(c)3",
+    "network": null,
+    "mission": "We make policy public – by, for, and with all residents of the central San Joaquin Valley.",
+    "topics": [
+      "Data centers",
+      "Government & Policy",
+      "Agriculture & Food Systems",
+      "Conservation & Land Use"
+    ],
+    "states": [
+      "California"
+    ]
+  },
+  {
+    "id": 60112,
+    "name": "Great Salt Lake Collaborative",
+    "website": "https://greatsaltlakenews.org/",
+    "location": "Utah",
+    "serviceArea": "State",
+    "specificServiceArea": "Utah",
+    "newsroomType": "Nonprofit 501(c)3",
+    "network": null,
+    "mission": "The Great Salt Lake Collaborative is a group of 19 news, education and civic organizations that have come together to better inform and engage the public about the crisis facing the Great Salt Lake — and what can be done to make a difference before it is too late. We will answer the question: During a time of drought, climate change and major population growth, how can Utah better support a critical body of water? We will do this through rigorous journalism, innovative storytelling and unique community outreach that focuses on how agencies and people are responding to the challenges facing the lake.",
+    "topics": [
+      "Water",
+      "Sustainability",
+      "Conservation & Land Use",
+      "Government & Policy"
+    ],
+    "states": [
+      "Utah"
+    ]
+  },
+  {
+    "id": 97472,
+    "name": "Green Philly",
+    "website": "https://greenphl.com/",
+    "location": "Philadelphia, PA",
+    "serviceArea": "Hyperlocal/local",
+    "specificServiceArea": "Philadelphia",
+    "newsroomType": "Nonprofit 501(c)3",
+    "network": null,
+    "mission": "Green Philly is a trusted media organization in the Greater Philadelphia region. Think of us as your resource for a sustainable, local, and accessible lifestyle. We’ve been connecting you with eco-friendly living tips, news, sustainable businesses, and ways to take action through original stories, social media, our newsletter and community events since 2008. Whether you’re just starting your sustainability journey or are already well into it, we’re here to support and inspire you. Our mission is to connect you with eco-solutions for a more resilient future, make sustainability fun, and foster a vibrant, inclusive community.",
+    "topics": [
+      "Conservation & Land Use",
+      "Energy",
+      "Agriculture & Food Systems",
+      "Environmental justice"
+    ],
+    "states": [
+      "Pennsylvania"
+    ]
+  },
+  {
+    "id": 96022,
+    "name": "Grist Magazine, Inc.",
+    "website": "https://grist.org/",
+    "location": "Seattle, WA",
+    "serviceArea": "U.S.",
+    "specificServiceArea": null,
+    "newsroomType": "Nonprofit 501(c)3",
+    "network": null,
+    "mission": "Grist is a nonprofit, independent media organization dedicated to reporting on climate change. Since 1999, we have used the power of journalism to engage the public about the perils of one of the most existential threats we face. We seek to document the often unequal impacts of climate change on communities in the United States and globally — as well as to show the promise of equitable climate solutions.",
+    "topics": [
+      "Government & Policy",
+      "Energy",
+      "Environmental justice",
+      "Sustainability",
+      "Extreme weather",
+      "Agriculture & Food Systems"
+    ],
+    "states": []
+  },
+  {
+    "id": 43850,
+    "name": "Guardian Org Foundation",
+    "website": "https://www.theguardian.com/us",
+    "location": "London, UK",
+    "serviceArea": "Global",
+    "specificServiceArea": null,
+    "newsroomType": "Nonprofit 501(c)3",
+    "network": null,
+    "mission": "Guardian Media Group is a global news organisation that delivers fearless, investigative journalism - giving a voice to the powerless and holding power to account.",
+    "topics": [
+      "Extreme weather",
+      "Agriculture & Food Systems",
+      "Government & Policy",
+      "Water",
+      "Conservation & Land Use",
+      "Energy"
+    ],
+    "states": []
+  },
+  {
+    "id": 51162,
+    "name": "Hawaii Public Radio",
+    "website": "https://www.hawaiipublicradio.org/",
+    "location": "Honolulu, HI",
+    "serviceArea": "State",
+    "specificServiceArea": "Hawaii",
+    "newsroomType": "Public Media",
+    "network": null,
+    "mission": "We are a trusted, community-funded public service that informs with essential news, inspires through the power of music and the arts, and connects people through conversations and convenings.",
+    "topics": [
+      "Energy",
+      "Government & Policy",
+      "Extreme weather"
+    ],
+    "states": [
+      "Hawai'i"
+    ]
+  },
+  {
+    "id": 90694,
+    "name": "HIGH COUNTRY NEWS",
+    "website": "https://www.hcn.org/",
+    "location": "Paonia, CO",
+    "serviceArea": "Multi-state regional",
+    "specificServiceArea": "12 states in the West",
+    "newsroomType": "Nonprofit 501(c)3",
+    "network": null,
+    "mission": "HCN’s mission is to inform and inspire people to act on behalf of the West’s diverse natural and human communities.",
+    "topics": [
+      "Conservation & Land Use",
+      "Environmental justice",
+      "Water",
+      "Government & Policy",
+      "Extreme weather"
+    ],
+    "states": [
+      "Colorado",
+      "Alaska",
+      "Arizona",
+      "California",
+      "Idaho",
+      "Montana",
+      "Nevada",
+      "New Mexico",
+      "Oregon",
+      "Utah",
+      "Washington",
+      "Wyoming"
+    ]
+  },
+  {
+    "id": 30135,
+    "name": "Honolulu Civil Beat Inc",
+    "website": "https://www.civilbeat.org/",
+    "location": "Honolulu, HI",
+    "serviceArea": "State",
+    "specificServiceArea": "Hawai'i",
+    "newsroomType": "Nonprofit 501(c)3",
+    "network": null,
+    "mission": "Our mission is to engage and educate the community on important public issues through in-depth reporting, explanatory and investigative journalism, analysis and commentary.",
+    "topics": [
+      "Conservation & Land Use",
+      "Extreme weather",
+      "Agriculture & Food Systems",
+      "Government & Policy"
+    ],
+    "states": [
+      "Hawai'i"
+    ]
+  },
+  {
+    "id": 75300,
+    "name": "Illinois Public Media (WILL)",
+    "website": "https://will.illinois.edu/",
+    "location": "Urbana, IL",
+    "serviceArea": "Hyperlocal/local",
+    "specificServiceArea": "Central Illinois",
+    "newsroomType": "Public Media",
+    "network": "Harvest, Grist",
+    "mission": "Illinois Public Media is a not-for-profit public media service of the College of Media at the University of Illinois Urbana-Champaign, providing trusted PBS and NPR programming while creating local journalism, music, educational and cultural content for central Illinois and beyond. We enrich lives through the power of public media -- informing and connecting our communities, inspiring curiosity and discovery, and providing opportunities for lifelong learning. Through our television, radio, digital and community initiatives, we work with partners across the region to serve the needs and interests of the people who call central Illinois home.",
+    "topics": [
+      "Conservation & Land Use",
+      "Extreme weather",
+      "Water",
+      "Agriculture & Food Systems"
+    ],
+    "states": [
+      "Illinois"
+    ]
+  },
+  {
+    "id": 14305,
+    "name": "Indian Country Today",
+    "website": "https://ictnews.org/",
+    "location": "Phoenix, AZ",
+    "serviceArea": "Global",
+    "specificServiceArea": null,
+    "newsroomType": "Nonprofit 501(c)3",
+    "network": null,
+    "mission": "Our mission is to share more stories from Indigenous communities, told by Indigenous voices, to honor our ancestors and empower future generations.",
+    "topics": [
+      "Environmental justice",
+      "Extreme weather",
+      "Conservation & Land Use",
+      "Government & Policy"
+    ],
+    "states": []
+  },
+  {
+    "id": 73838,
+    "name": "Inside Climate News",
+    "website": "https://insideclimatenews.org/",
+    "location": "Brooklyn, NY",
+    "serviceArea": "U.S.",
+    "specificServiceArea": null,
+    "newsroomType": "Nonprofit 501(c)3",
+    "network": null,
+    "mission": "Founded in 2007, Inside Climate News is the oldest and largest dedicated climate newsroom in the nation. We are nonprofit and non-partisan and exist to publish essential reporting, investigation, and analysis about the biggest crisis facing our planet. We watchdog government, industry and advocates and hold them accountable for their policies and actions. We counter misinformation, hold polluters responsible, expose environmental injustice and scrutinize solutions.",
+    "topics": [
+      "Conservation & Land Use",
+      "Extreme weather",
+      "Government & Policy",
+      "Energy",
+      "Data centers"
+    ],
+    "states": []
+  },
+  {
+    "id": 83255,
+    "name": "Internews Network",
+    "website": "https://internews.org/",
+    "location": "Global",
+    "serviceArea": "Global",
+    "specificServiceArea": null,
+    "newsroomType": "Nonprofit 501(c)3",
+    "network": null,
+    "mission": "Internews is a non-partisan, non-profit organisation that champions freedom of expression and access to trustworthy information worldwide.",
+    "topics": [
+      "Conservation & Land Use",
+      "Energy"
+    ],
+    "states": []
+  },
+  {
+    "id": 26777,
+    "name": "InvestigateMidwest",
+    "website": "https://investigatemidwest.org/",
+    "location": "Champaign, IL",
+    "serviceArea": "Multi-state regional",
+    "specificServiceArea": "Midwest",
+    "newsroomType": "Nonprofit 501(c)3",
+    "network": "Desk",
+    "mission": "Investigate Midwest (previously The Midwest Center for Investigative Reporting) is an independent, nonprofit newsroom. Our mission is to serve the public as a watchdog over influential agricultural corporations and institutions through in-depth and data-driven investigative journalism.",
+    "topics": [
+      "Agriculture & Food Systems",
+      "Conservation & Land Use",
+      "Government & Policy",
+      "Environmental justice"
+    ],
+    "states": [
+      "Arkansas",
+      "Illinois",
+      "Indiana",
+      "Iowa",
+      "Kansas",
+      "Minnesota",
+      "Missouri",
+      "Nebraska",
+      "North Dakota",
+      "Ohio",
+      "South Dakota",
+      "Wisconsin",
+      "Oklahoma"
+    ]
+  },
+  {
+    "id": 34872,
+    "name": "InvestigateWest",
+    "website": "https://www.investigatewest.org/",
+    "location": "Seattle, WA",
+    "serviceArea": "Multi-state regional",
+    "specificServiceArea": "Pacific Northwest",
+    "newsroomType": "Nonprofit 501(c)3",
+    "network": null,
+    "mission": "As a nonprofit, collaborative newsroom, InvestigateWest’s mission is to produce high-impact investigative journalism that holds power accountable, exposes injustice and empowers underserved communities across the Pacific Northwest to create a more informed, just and equitable society.",
+    "topics": [
+      "Water",
+      "Conservation & Land Use",
+      "Extreme weather",
+      "Energy",
+      "Government & Policy",
+      "Environmental justice"
+    ],
+    "states": [
+      "Washington",
+      "Oregon",
+      "Idaho"
+    ]
+  },
+  {
+    "id": 22343,
+    "name": "Iowa Public Radio",
+    "website": "https://www.iowapublicradio.org/",
+    "location": "Des Moines, IA",
+    "serviceArea": "State",
+    "specificServiceArea": "Iowa",
+    "newsroomType": "Public Media",
+    "network": "Harvest",
+    "mission": "Iowa Public Radio is where news, music and culture meet. We're a community-based public radio network with a multimedia presence that provides free, local news and music to Iowans, wherever they are. We are an independent non-profit advised by a volunteer board representing — and committed to — serving all of Iowa. 100% of our funding comes from the listeners, businesses and organizations in local communities across the state.",
+    "topics": [
+      "Agriculture & Food Systems",
+      "Government & Policy",
+      "Water",
+      "Conservation & Land Use"
+    ],
+    "states": [
+      "Iowa"
+    ]
+  },
+  {
+    "id": 67218,
+    "name": "Jolt News Organization",
+    "website": "https://www.thejoltnews.com/",
+    "location": "Tumwater, WA",
+    "serviceArea": "Hyperlocal/local",
+    "specificServiceArea": "Olympia, Lacey, and Tumwater, WA",
+    "newsroomType": "Nonprofit 501(c)3",
+    "network": null,
+    "mission": "The JOLT News Organization nourishes the civic lives of Thurston County residents and grows community capacity by publishing accurate, relevant and entertaining stories that help people become better informed and more involved in local issues, events and activities.",
+    "topics": [
+      "Water",
+      "Extreme weather",
+      "Conservation & Land Use",
+      "Government & Policy"
+    ],
+    "states": [
+      "Washington"
+    ]
+  },
+  {
+    "id": 98840,
+    "name": "KAXE",
+    "website": "https://www.kaxe.org/",
+    "location": "Grand Rapids, MN",
+    "serviceArea": "Hyperlocal/local",
+    "specificServiceArea": "Northern Minnesota",
+    "newsroomType": "Public Media",
+    "network": "Desk",
+    "mission": "KAXE is community-powered radio, rooted in the people, places, and stories that make northern Minnesota special. We go beyond the headlines to share voices, experiences, and events that connect and inspire our region.",
+    "topics": [
+      "Conservation & Land Use",
+      "Water"
+    ],
+    "states": [
+      "Minnesota"
+    ]
+  },
+  {
+    "id": 89208,
+    "name": "KBIA",
+    "website": "https://www.kbia.org/",
+    "location": "Columbia, MO",
+    "serviceArea": "Hyperlocal/local",
+    "specificServiceArea": "mid-Missouri",
+    "newsroomType": "Public Media",
+    "network": "Desk, Harvest",
+    "mission": "To provide thoughtful stories that inform, engage and connect the community. We seek out under-covered issues and places and look beyond the headlines to provide perspective that expands understanding and inspires connection. We train the next generation of journalists to practice responsible, critical, ethical and innovative journalism, and above all, to be curious.",
+    "topics": [
+      "Agriculture & Food Systems",
+      "Conservation & Land Use",
+      "Water",
+      "Energy",
+      "Government & Policy"
+    ],
+    "states": [
+      "Missouri"
+    ]
+  },
+  {
+    "id": 51344,
+    "name": "KCUR",
+    "website": "https://www.kcur.org/",
+    "location": "Kansas City, MO",
+    "serviceArea": "Hyperlocal/local",
+    "specificServiceArea": "Kansas City",
+    "newsroomType": "Public Media",
+    "network": "Harvest",
+    "mission": "KCUR 89.3 is Kansas City’s NPR member station, first broadcast in 1957. A charter member of NPR, KCUR holds itself to the highest journalistic standards in service to the citizens of Kansas, Missouri, the broader Midwest, and the nation.",
+    "topics": [
+      "Conservation & Land Use",
+      "Extreme weather",
+      "Energy",
+      "Agriculture & Food Systems",
+      "Government & Policy"
+    ],
+    "states": [
+      "Missouri"
+    ]
+  },
+  {
+    "id": 31750,
+    "name": "KJZZ",
+    "website": "https://www.kjzz.org/",
+    "location": "Phoenix, AZ",
+    "serviceArea": "State",
+    "specificServiceArea": "Phoenix",
+    "newsroomType": "Public Media",
+    "network": "Mountain West",
+    "mission": "KJZZ is an award-winning, listener-supported public radio station broadcasting to the Phoenix, Arizona, metropolitan area. As the NPR member station for the region, KJZZ features a mix of local, national and global news — including BBC, American Public Media and PRX. The station also airs a mix of entertainment and discussion programs to complement the daily news coverage.",
+    "topics": [
+      "Sustainability",
+      "Conservation & Land Use",
+      "Energy",
+      "Government & Policy",
+      "Environmental justice"
+    ],
+    "states": [
+      "Arizona"
+    ]
+  },
+  {
+    "id": 61885,
+    "name": "KNAU (Arizona Public Radio)",
+    "website": "https://www.knau.org/",
+    "location": "Flagstaff, AZ",
+    "serviceArea": "State",
+    "specificServiceArea": "Arizona",
+    "newsroomType": "Public Media",
+    "network": null,
+    "mission": "The Colorado Plateau is one of North America’s human and environmental treasures. Ancient cultures have called this land of sun-baked deserts and lush mountain landscapes home for centuries. Earth Notes, KNAU’s weekly environmental series, explores the Plateau by telling stories of the intricate relationships between environmental issues and our daily lives. Rooted in science and wrapped in human interest, the two minute long segments encourage listeners to think of themselves as part of the solution to environmental problems. Upbeat and informative, the program tries to foster hope and dampen despair about the environment, and motivate listeners to become more conscious and informed stewards of the Colorado Plateau.",
+    "topics": [
+      "Agriculture & Food Systems",
+      "Conservation & Land Use",
+      "Government & Policy"
+    ],
+    "states": [
+      "Arizona"
+    ]
+  },
+  {
+    "id": 24381,
+    "name": "KNKX",
+    "website": "https://www.knkx.org/",
+    "location": "Seattle/Tacoma, WA",
+    "serviceArea": "Hyperlocal/local",
+    "specificServiceArea": "Seattle/Tacoma",
+    "newsroomType": "Public Media",
+    "network": null,
+    "mission": "KNKX is an ambassador for jazz and blues, and a vital source of high-quality NPR and Northwest news. Our programming staff are storytellers who reach deeply into the community to reflect the voices of our region.",
+    "topics": [
+      "Agriculture & Food Systems",
+      "Conservation & Land Use",
+      "Government & Policy",
+      "Environmental justice"
+    ],
+    "states": [
+      "Washington"
+    ]
+  },
+  {
+    "id": 51623,
+    "name": "KQED",
+    "website": "https://www.kqed.org/science",
+    "location": "San Francisco, CA",
+    "serviceArea": "Hyperlocal/local",
+    "specificServiceArea": "Bay Area",
+    "newsroomType": "Public Media",
+    "network": null,
+    "mission": "KQED serves the people of Northern California with a community-supported alternative to commercial media. We provide people with the knowledge they need to make informed decisions; convene community dialogue; bring the arts to everyone; and engage audiences to share their stories. We help students and teachers thrive in 21st century classrooms, and take people of all ages on journeys of exploration—exposing them to new people, places and ideas.",
+    "topics": [
+      "Extreme weather",
+      "Government & Policy",
+      "Agriculture & Food Systems"
+    ],
+    "states": [
+      "California"
+    ]
+  },
+  {
+    "id": 94228,
+    "name": "KTOO",
+    "website": "https://www.ktoo.org/",
+    "location": "Juneau, AK",
+    "serviceArea": "State",
+    "specificServiceArea": "Alaska",
+    "newsroomType": "Public Media",
+    "network": null,
+    "mission": "KTOO is the non-profit Juneau-based corporation that provides a variety of telecommunications services to Juneau and statewide audiences.",
+    "topics": [
+      "Energy",
+      "Conservation & Land Use",
+      "Extreme weather",
+      "Water"
+    ],
+    "states": [
+      "Alaska"
+    ]
+  },
+  {
+    "id": 30083,
+    "name": "KUNR",
+    "website": "https://www.kunr.org/",
+    "location": "Reno, NV",
+    "serviceArea": "Hyperlocal/local",
+    "specificServiceArea": "Norther Nevada/Eastern Sierra",
+    "newsroomType": "Public Media",
+    "network": "Mountain West",
+    "mission": "As Northern Nevada’s trusted public radio station, KUNR has been connecting our local community since 1963. We’re part of the Reynolds School of Journalism at the University of Nevada, Reno. We also operate KNCC in Elko and KNCJ, Nevada Classical and Jazz.",
+    "topics": [
+      "Conservation & Land Use",
+      "Extreme weather",
+      "Water",
+      "Government & Policy"
+    ],
+    "states": [
+      "Nevada"
+    ]
+  },
+  {
+    "id": 83009,
+    "name": "KUOW",
+    "website": "https://www.kuow.org/",
+    "location": "Seattle, WA",
+    "serviceArea": "Hyperlocal/local",
+    "specificServiceArea": "Seattle",
+    "newsroomType": "Public Media",
+    "network": null,
+    "mission": "KUOW Puget Sound Public Radio is Seattle’s NPR news station. We are an independent, nonprofit news organization that produces award-winning journalism, innovative podcasts, engaging community events, and more.",
+    "topics": [
+      "Extreme weather",
+      "Energy",
+      "Conservation & Land Use",
+      "Government & Policy"
+    ],
+    "states": [
+      "Washington"
+    ]
+  },
+  {
+    "id": 34435,
+    "name": "KUT",
+    "website": "https://www.kut.org/",
+    "location": "Austin, TX",
+    "serviceArea": "State",
+    "specificServiceArea": "Texas",
+    "newsroomType": "Public Media",
+    "network": null,
+    "mission": "Through independent local, regional, national and international news, and transformative music and community storytelling, we bring people together, amplify voices and provide critical information. KUT Public Media is a voice of — and for — the Central Texas community.",
+    "topics": [
+      "Energy",
+      "Data centers",
+      "Conservation & Land Use",
+      "Government & Policy",
+      "Extreme weather"
+    ],
+    "states": [
+      "Texas"
+    ]
+  },
+  {
+    "id": 44040,
+    "name": "LAist / KPCC (89.3 FM)",
+    "website": "https://laist.com/",
+    "location": "Los Angeles, CA",
+    "serviceArea": "Hyperlocal/local",
+    "specificServiceArea": "Los Angeles",
+    "newsroomType": "Public Media",
+    "network": null,
+    "mission": "The mission of LAist is to strengthen the civic and cultural bonds that unite Southern California's diverse communities by providing the highest quality news and information across multiple platforms. We are a public forum that engages its audiences in an ongoing dialogue and exploration of issues, events, and cultures in the region and in the world. We seek to provide greater understanding and new perspectives to the people of these communities and their leaders.",
+    "topics": [
+      "Extreme weather",
+      "Energy",
+      "Agriculture & Food Systems",
+      "Government & Policy",
+      "Conservation & Land Use"
+    ],
+    "states": [
+      "California"
+    ]
+  },
+  {
+    "id": 26673,
+    "name": "Maine Center for Public Interest Reporting",
+    "website": "https://themainemonitor.org/about/",
+    "location": "Hallowell, ME",
+    "serviceArea": "State",
+    "specificServiceArea": "Maine",
+    "newsroomType": "Nonprofit 501(c)3",
+    "network": null,
+    "mission": "The Maine Center for Public Interest Reporting was founded in 2009 to address Maine’s need for investigative reporting on issues impacting our communities and to staunch the decline in investigative reporting happening as Maine’s legacy news organizations cut staff and reporting.",
+    "topics": [
+      "Conservation & Land Use",
+      "Agriculture & Food Systems",
+      "Water",
+      "Energy",
+      "Government & Policy"
+    ],
+    "states": [
+      "Maine"
+    ]
+  },
+  {
+    "id": 39906,
+    "name": "Maine Public",
+    "website": "https://www.mainepublic.org/",
+    "location": "Bangor, ME",
+    "serviceArea": "State",
+    "specificServiceArea": "Maine",
+    "newsroomType": "Public Media",
+    "network": null,
+    "mission": "Every day, Maine Public connects the people of Maine and our region to each other and to the world through the open exchange of information, ideas, and cultural content.",
+    "topics": [
+      "Conservation & Land Use",
+      "Energy",
+      "Government & Policy",
+      "Extreme weather"
+    ],
+    "states": [
+      "Maine"
+    ]
+  },
+  {
+    "id": 15377,
+    "name": "Michigan Public",
+    "website": "https://www.michiganpublic.org/",
+    "location": "Ann Arbor, MI",
+    "serviceArea": "State",
+    "specificServiceArea": "Michigan",
+    "newsroomType": "Public Media",
+    "network": null,
+    "mission": "Michigan Public’s mission is to uncover the facts, share the stories, and create the connections that give meaning to our complex world. This is part of our vision for an informed and engaged Michigan.",
+    "topics": [
+      "Energy",
+      "Conservation & Land Use",
+      "Government & Policy",
+      "Extreme weather",
+      "Environmental justice",
+      "Water"
+    ],
+    "states": [
+      "Michigan"
+    ]
+  },
+  {
+    "id": 20999,
+    "name": "Minnesota Public Radio / American Public Media",
+    "website": "https://www.mpr.org/",
+    "location": "Saint Paul, MN",
+    "serviceArea": "State",
+    "specificServiceArea": "Minnesota",
+    "newsroomType": "Public Media",
+    "network": "Harvest",
+    "mission": "Creating the future of public media by amplifying voices to inform, include, and inspire.",
+    "topics": [
+      "Energy",
+      "Sustainability",
+      "Conservation & Land Use",
+      "Agriculture & Food Systems"
+    ],
+    "states": [
+      "Minnesota"
+    ]
+  },
+  {
+    "id": 42820,
+    "name": "MinnPost",
+    "website": "https://www.minnpost.com/",
+    "location": "Minneapolis, MN",
+    "serviceArea": "State",
+    "specificServiceArea": "Minnesota",
+    "newsroomType": "Nonprofit 501(c)3",
+    "network": "Desk",
+    "mission": "MinnPost produces independent journalism to serve as a trusted guide for Minnesotans exploring the critical issues, challenges and opportunities facing our state.",
+    "topics": [
+      "Water",
+      "Government & Policy",
+      "Data centers",
+      "Energy"
+    ],
+    "states": [
+      "Minnesota"
+    ]
+  },
+  {
+    "id": 84320,
+    "name": "Mississippi River Basin Ag & Water Desk",
+    "website": "https://agwaterdesk.org/",
+    "location": "Columbia, MO",
+    "serviceArea": "Multi-state regional",
+    "specificServiceArea": "MS River Basin",
+    "newsroomType": "Nonprofit 501(c)3",
+    "network": null,
+    "mission": "The mission of the Mississippi River Basin Ag & Water Desk is to enhance the quantity, quality and impact of journalism on agriculture, water and related issues throughout the basin.",
+    "topics": [
+      "Agriculture & Food Systems",
+      "Water",
+      "Conservation & Land Use",
+      "Extreme weather",
+      "Environmental justice",
+      "Government & Policy"
+    ],
+    "states": [
+      "Missouri",
+      "Montana",
+      "Wyoming",
+      "North Dakota",
+      "South Dakota",
+      "Minnesota",
+      "Nebraska",
+      "Kansas",
+      "Colorado",
+      "Texas",
+      "Oklahoma",
+      "Louisiana",
+      "Arkansas",
+      "Tennessee",
+      "Kentucky",
+      "Ohio",
+      "Pennsylvania",
+      "Indiana",
+      "Illinois",
+      "West Virginia",
+      "Wisconsin",
+      "Georgia",
+      "Virginia"
+    ]
+  },
+  {
+    "id": 79911,
+    "name": "Mongobay",
+    "website": "https://mongabay.org/",
+    "location": "Menlo Park, CA",
+    "serviceArea": "Global",
+    "specificServiceArea": null,
+    "newsroomType": "Nonprofit 501(c)3",
+    "network": null,
+    "mission": "Mongabay is an independent, nonprofit media organization reporting on nature and planetary challenges with a global network of local journalists. Mongabay serves a diverse audience by providing free access to news and information in numerous languages and formats to address knowledge gaps and improve transparency. By revealing the evidence of ecosystem destruction and its consequences for people worldwide, Mongabay creates opportunities to hold those responsible accountable.",
+    "topics": [
+      "Conservation & Land Use",
+      "Water",
+      "Environmental justice",
+      "Sustainability"
+    ],
+    "states": []
+  },
+  {
+    "id": 44941,
+    "name": "Mother Jones",
+    "website": "https://www.motherjones.com/",
+    "location": "San Francisco, CA",
+    "serviceArea": "U.S.",
+    "specificServiceArea": null,
+    "newsroomType": "Nonprofit 501(c)3",
+    "network": null,
+    "mission": "Mother Jones is a nonprofit, reader-supported newsroom founded in 1976 that reaches millions of people each month across our website, social media, videos, newsletter, and print magazine. Mother Jones is produced by the Center for Investigative Reporting, which also produces Reveal, the weekly investigative radio show and podcast, and More To The Story, the weekly podcast. Mother Jones was a Pulitzer Prize finalist in 2025.",
+    "topics": [
+      "Extreme weather",
+      "Government & Policy",
+      "Energy",
+      "Conservation & Land Use",
+      "Agriculture & Food Systems",
+      "Environmental justice"
+    ],
+    "states": []
+  },
+  {
+    "id": 89137,
+    "name": "National Public Radio",
+    "website": "https://www.npr.org/",
+    "location": "Global",
+    "serviceArea": "Global",
+    "specificServiceArea": null,
+    "newsroomType": "Public Media",
+    "network": null,
+    "mission": "NPR is an independent, nonprofit media organization that was founded on a mission to create a more informed public.",
+    "topics": [
+      "Extreme weather",
+      "Government & Policy",
+      "Energy",
+      "Water",
+      "Sustainability",
+      "Environmental justice"
+    ],
+    "states": []
+  },
+  {
+    "id": 88397,
+    "name": "Nautilusthink Inc",
+    "website": "https://nautil.us/",
+    "location": "Austin, TX",
+    "serviceArea": "Global",
+    "specificServiceArea": null,
+    "newsroomType": "Nonprofit 501(c)3",
+    "network": null,
+    "mission": "Like Captain Nemo, we’re embarked on a voyage into the wonders of the universe. Our stories take you into the depths of science and spotlight its ripples in our lives and cultures. We believe any subject in science, no matter how complex, can be explained with clarity and vitality.",
+    "topics": [
+      "Water",
+      "Extreme weather",
+      "Conservation & Land Use"
+    ],
+    "states": []
+  },
+  {
+    "id": 56314,
+    "name": "Nebraska Public Media",
+    "website": "https://nebraskapublicmedia.org/en/",
+    "location": "Lincoln, NE",
+    "serviceArea": "State",
+    "specificServiceArea": "Nebraska",
+    "newsroomType": "Public Media",
+    "network": "Harvest",
+    "mission": "At Nebraska Public Media, we enrich lives and engage minds by connecting communities and celebrating Nebraska with services that educate and enlighten. Our trusted, valued and essential programs and services celebrate Nebraska while reflecting the best in all of us.",
+    "topics": [
+      "Government & Policy",
+      "Agriculture & Food Systems",
+      "Conservation & Land Use"
+    ],
+    "states": [
+      "Nebraska"
+    ]
+  },
+  {
+    "id": 11648,
+    "name": "New Hampshire Public Radio Inc",
+    "website": "https://www.nhpr.org/",
+    "location": "Concord, NH",
+    "serviceArea": "State",
+    "specificServiceArea": "New Hampshire",
+    "newsroomType": "Public Media",
+    "network": null,
+    "mission": "NHPR is New Hampshire’s only statewide radio news service, broadcasting from 14 sites across the Granite State.",
+    "topics": [
+      "Energy",
+      "Extreme weather",
+      "Conservation & Land Use",
+      "Water"
+    ],
+    "states": [
+      "New Hampshire"
+    ]
+  },
+  {
+    "id": 68947,
+    "name": "New York Focus",
+    "website": "https://www.nysfocus.com/",
+    "location": "New York, NY",
+    "serviceArea": "State",
+    "specificServiceArea": "New York State",
+    "newsroomType": "Nonprofit 501(c)3",
+    "network": null,
+    "mission": "New York Focus is a nonprofit, nonpartisan newsroom covering state and local politics in the Empire State, with a dedicated Climate and Environment section and reporter.",
+    "topics": [
+      "Government & Policy",
+      "Data centers",
+      "Extreme weather",
+      "Water"
+    ],
+    "states": [
+      "New York"
+    ]
+  },
+  {
+    "id": 74818,
+    "name": "New York Times",
+    "website": "https://www.nytimes.com/section/climate",
+    "location": "New York, NY",
+    "serviceArea": "Global",
+    "specificServiceArea": null,
+    "newsroomType": "For profit",
+    "network": null,
+    "mission": "We seek the truth and help people understand the world. This mission is rooted in our belief that great journalism has the power to make each reader’s life richer and more fulfilling, and all of society stronger and more just.",
+    "topics": [
+      "Conservation & Land Use",
+      "Water",
+      "Extreme weather",
+      "Sustainability",
+      "Energy"
+    ],
+    "states": []
+  },
+  {
+    "id": 45110,
+    "name": "NJ Spotlight News",
+    "website": "https://www.njspotlightnews.org/",
+    "location": "Newark, NJ",
+    "serviceArea": "State",
+    "specificServiceArea": "New Jersey",
+    "newsroomType": "Nonprofit 501(c)3",
+    "network": null,
+    "mission": "NJ Spotlight News is a nonprofit news organization covering New Jersey issues including public finance, education, and a dedicated energy and environment beat.",
+    "topics": [
+      "Energy",
+      "Government & Policy",
+      "Conservation & Land Use"
+    ],
+    "states": [
+      "New Jersey"
+    ]
+  },
+  {
+    "id": 60985,
+    "name": "Ocean State Media",
+    "website": "https://www.oceanstatemedia.org/",
+    "location": "Providence, RI",
+    "serviceArea": "State",
+    "specificServiceArea": "Rhode Island",
+    "newsroomType": "Public Media",
+    "network": null,
+    "mission": "Fueled by fearless local journalism, community-centered storytelling and multi-platform innovation, Ocean State Media connects with audiences where they are. We listen deeply, partner with our neighbors and create space for dynamic conversations and meaningful connections.",
+    "topics": [
+      "Conservation & Land Use",
+      "Energy",
+      "Sustainability",
+      "Water",
+      "Government & Policy"
+    ],
+    "states": [
+      "Rhode Island"
+    ]
+  },
+  {
+    "id": 76486,
+    "name": "Oregon Public Broadcasting",
+    "website": "https://www.opb.org/",
+    "location": "Portland, OR",
+    "serviceArea": "Multi-state regional",
+    "specificServiceArea": "Oregon and the Pacific Northwest",
+    "newsroomType": "Public Media",
+    "network": null,
+    "mission": "Connecting people across Oregon and the Pacific Northwest through the power of a shared story.",
+    "topics": [
+      "Energy",
+      "Conservation & Land Use",
+      "Agriculture & Food Systems"
+    ],
+    "states": [
+      "Oregon"
+    ]
+  },
+  {
+    "id": 82058,
+    "name": "PBS",
+    "website": "https://www.pbs.org/",
+    "location": "Arlington, VA",
+    "serviceArea": "U.S.",
+    "specificServiceArea": null,
+    "newsroomType": "Public Media",
+    "network": null,
+    "mission": "PBS and our member stations are America’s largest classroom, the nation’s largest stage for the arts and a trusted window to the world. In addition, PBS's educational media helps prepare children for success in school and opens up the world to them in an age-appropriate way.",
+    "topics": [
+      "Energy",
+      "Conservation & Land Use",
+      "Water",
+      "Extreme weather"
+    ],
+    "states": []
+  },
+  {
+    "id": 41814,
+    "name": "Pittsburgh Community Broadcasting - 91.3 WYEP and 90.5 WESA",
+    "website": "https://pittsburghcommunitybroadcasting.org/",
+    "location": "Pittsburgh, PA",
+    "serviceArea": "Hyperlocal/local",
+    "specificServiceArea": "Southwestern Pennsylvania",
+    "newsroomType": "Public Media",
+    "network": null,
+    "mission": "Our mission is to create and distribute trusted content, build connections and strengthen our community through public media.",
+    "topics": [
+      "Data centers",
+      "Energy",
+      "Government & Policy",
+      "Extreme weather"
+    ],
+    "states": [
+      "Pennsylvania"
+    ]
+  },
+  {
+    "id": 17812,
+    "name": "Planet Detroit",
+    "website": "https://planetdetroit.org/",
+    "location": "Detroit, MI",
+    "serviceArea": "Hyperlocal/local",
+    "specificServiceArea": "Detroit",
+    "newsroomType": "Nonprofit 501(c)3",
+    "network": null,
+    "mission": "Planet Detroit is an independent nonprofit local news organization designed to inform you about the environment and public health in Detroit and Michigan.",
+    "topics": [
+      "Government & Policy",
+      "Energy",
+      "Data centers",
+      "Extreme weather",
+      "Water",
+      "Conservation & Land Use",
+      "Environmental justice"
+    ],
+    "states": [
+      "Michigan"
+    ]
+  },
+  {
+    "id": 23058,
+    "name": "Prism Reports Inc",
+    "website": "https://prismreports.org/",
+    "location": "Oakland, CA",
+    "serviceArea": "U.S.",
+    "specificServiceArea": null,
+    "newsroomType": "Nonprofit 501(c)3",
+    "network": null,
+    "mission": "Prism investigates systems of power with communities most impacted by injustice at the center of our reporting. We connect lived experience to structural inequality, ground our work in historical and political context, and produce clear, accurate journalism that strengthens movements and builds media literacy for collective liberation.",
+    "topics": [
+      "Environmental justice",
+      "Conservation & Land Use",
+      "Energy"
+    ],
+    "states": []
+  },
+  {
+    "id": 84617,
+    "name": "ProPublica",
+    "website": "https://www.propublica.org/",
+    "location": "New York, NY",
+    "serviceArea": "U.S.",
+    "specificServiceArea": null,
+    "newsroomType": "Nonprofit 501(c)3",
+    "network": null,
+    "mission": "To expose abuses of power and betrayals of the public trust by government, business, and other institutions, using the moral force of investigative journalism to spur reform through the sustained spotlighting of wrongdoing.",
+    "topics": [
+      "Energy",
+      "Extreme weather",
+      "Government & Policy",
+      "Environmental justice",
+      "Water"
+    ],
+    "states": []
+  },
+  {
+    "id": 57480,
+    "name": "Radio Catskill",
+    "website": "https://radiocatskill.org/",
+    "location": "Liberty, NY",
+    "serviceArea": "Multi-state regional",
+    "specificServiceArea": "The Catskills and Northeast Pennsylvania",
+    "newsroomType": "Public Media",
+    "network": null,
+    "mission": "WJFF Radio Catskill is an independent community voice of the Catskills and Northeast Pennsylvania. We connect listeners through locally focused and globally aware programming to inform, entertain, and inspire our communities, and promote understanding among people of diverse social, cultural, economic, and political backgrounds.",
+    "topics": [
+      "Conservation & Land Use",
+      "Agriculture & Food Systems"
+    ],
+    "states": [
+      "New York",
+      "Pennsylvania"
+    ]
+  },
+  {
+    "id": 26074,
+    "name": "Rural California Broadcasting Corporatio",
+    "website": "https://norcalpublicmedia.org/inside-krcb/about-us",
+    "location": "Rohnert Park, CA",
+    "serviceArea": "Hyperlocal/local",
+    "specificServiceArea": "Northern California",
+    "newsroomType": "Public Media",
+    "network": null,
+    "mission": "NorCal Public Media's mission is to be a trusted, independent, and essential voice that heightens awareness of the diversity of the human experience, reports on issues of importance, and convenes public discussion to strengthen our community.",
+    "topics": [
+      "Extreme weather",
+      "Conservation & Land Use",
+      "Agriculture & Food Systems",
+      "Environmental justice",
+      "Water"
+    ],
+    "states": [
+      "California"
+    ]
+  },
+  {
+    "id": 76698,
+    "name": "Sahan Journal",
+    "website": "https://sahanjournal.com/",
+    "location": "Saint Paul, MN",
+    "serviceArea": "State",
+    "specificServiceArea": "Minnesota",
+    "newsroomType": "Nonprofit 501(c)3",
+    "network": null,
+    "mission": "Sahan Journal is a nonprofit newsroom dedicated to covering immigrants and communities of color in Minnesota.",
+    "topics": [
+      "Sustainability",
+      "Energy",
+      "Water",
+      "Government & Policy",
+      "Environmental justice"
+    ],
+    "states": [
+      "Minnesota"
+    ]
+  },
+  {
+    "id": 25955,
+    "name": "San Francisco Public Press",
+    "website": "https://www.sfpublicpress.org/",
+    "location": "San Francisco, CA",
+    "serviceArea": "Hyperlocal/local",
+    "specificServiceArea": "San Francisco",
+    "newsroomType": "Nonprofit 501(c)3",
+    "network": null,
+    "mission": "The mission of the San Francisco Public Press is to enrich civic life by producing investigative and solutions journalism that engages diverse audiences and promotes public accountability.",
+    "topics": [
+      "Sustainability",
+      "Government & Policy",
+      "Energy",
+      "Environmental justice",
+      "Extreme weather"
+    ],
+    "states": [
+      "California"
+    ]
+  },
+  {
+    "id": 11493,
+    "name": "Sentient",
+    "website": "https://sentientmedia.org/mission/",
+    "location": null,
+    "serviceArea": "U.S.",
+    "specificServiceArea": null,
+    "newsroomType": "Nonprofit 501(c)3",
+    "network": null,
+    "mission": "Sentient is an award winning media outlet and the only nonprofit, nonpartisan news organization solely focused on factory farms and their effects on climate, animals, workers, clean water, public health and rural communities.",
+    "topics": [
+      "Agriculture & Food Systems",
+      "Conservation & Land Use",
+      "Environmental justice",
+      "Government & Policy"
+    ],
+    "states": []
+  },
+  {
+    "id": 65185,
+    "name": "Sierra Nevada Ally",
+    "website": "https://sierranevadaally.org/",
+    "location": "Reno, NV",
+    "serviceArea": "Multi-state regional",
+    "specificServiceArea": "Northern Nevada / Sierra region",
+    "newsroomType": "Nonprofit 501(c)3",
+    "network": null,
+    "mission": "Our Mission. To build healthy communities informed by facts, with a focus on civics, climate and cultural reporting from underserved communities.",
+    "topics": [
+      "Conservation & Land Use",
+      "Extreme weather",
+      "Government & Policy"
+    ],
+    "states": [
+      "Nevada",
+      "California",
+      "Idaho",
+      "Oregon"
+    ]
+  },
+  {
+    "id": 74449,
+    "name": "St. Louis Public Radio",
+    "website": "https://www.stlpr.org/",
+    "location": "St. Louis, MO",
+    "serviceArea": "State",
+    "specificServiceArea": "St. Louis",
+    "newsroomType": "Public Media",
+    "network": null,
+    "mission": "To inform and provide a deeper understanding and appreciation of events, ideas and cultures for a more inspired and engaged public.",
+    "topics": [
+      "Extreme weather",
+      "Conservation & Land Use",
+      "Government & Policy"
+    ],
+    "states": [
+      "Missouri"
+    ]
+  },
+  {
+    "id": 65813,
+    "name": "Tennessee Lookout",
+    "website": "https://tennesseelookout.com/",
+    "location": "Nashville, TN",
+    "serviceArea": "State",
+    "specificServiceArea": "Tennessee",
+    "newsroomType": "Nonprofit 501(c)3",
+    "network": "Desk",
+    "mission": "The Tennessee Lookout is your watchdog, telling the stories of politics and policy that affect the people of the Volunteer State.",
+    "topics": [
+      "Water",
+      "Conservation & Land Use",
+      "Data centers",
+      "Government & Policy"
+    ],
+    "states": [
+      "Tennessee"
+    ]
+  },
+  {
+    "id": 23453,
+    "name": "Texas Climate News",
+    "website": "https://texasclimatenews.org/about-tcn/",
+    "location": "Texas",
+    "serviceArea": "State",
+    "specificServiceArea": "Texas",
+    "newsroomType": "For profit",
+    "network": null,
+    "mission": "We work to enhance Texas citizens’ (and others’) knowledge and understanding of important developments in science, government, business, citizen action and other areas. We want to help inform the public dialogue as Texans and others confront a changing climate and work to build more sustainable futures for themselves and their descendants.",
+    "topics": [
+      "Water",
+      "Extreme weather",
+      "Sustainability"
+    ],
+    "states": [
+      "Texas"
+    ]
+  },
+  {
+    "id": 25105,
+    "name": "The 19th News",
+    "website": "https://19thnews.org/topics/environment-climate/",
+    "location": null,
+    "serviceArea": "U.S.",
+    "specificServiceArea": null,
+    "newsroomType": "Nonprofit 501(c)3",
+    "network": null,
+    "mission": "The 19th is an independent, nonprofit newsroom reporting on gender, politics, policy and power. We’re named for The 19th Amendment – a watershed moment in our democracy that was meant to make voting a right regardless of sex. In reality, it gave White women the right to vote, while women of color remained disenfranchised for another four decades. We acknowledge that fact in our logo with an asterisk, and dedicate our reporting to the women and LGBTQ+ people still fighting to be seen and heard in our democracy.",
+    "topics": [
+      "Water",
+      "Environmental justice",
+      "Extreme weather"
+    ],
+    "states": []
+  },
+  {
+    "id": 57965,
+    "name": "The Center for Michigan",
+    "website": "https://bridgemi.com/",
+    "location": "Detroit, MI",
+    "serviceArea": "State",
+    "specificServiceArea": "Michigan",
+    "newsroomType": "Nonprofit 501(c)3",
+    "network": null,
+    "mission": "Bridge Michigan exists to ensure every Michigander, regardless of income or ZIP code, has access to the trusted, nonpartisan, fact-based reporting they need to hold leaders accountable, understand complex policy and participate as informed citizens. We cover education, health, environment, business, politics and government accountability with rigorous journalism that follows the facts wherever they lead.",
+    "topics": [
+      "Energy",
+      "Government & Policy",
+      "Conservation & Land Use",
+      "Sustainability"
+    ],
+    "states": [
+      "Michigan"
+    ]
+  },
+  {
+    "id": 85137,
+    "name": "The Colorado Sun",
+    "website": "https://coloradosun.com/",
+    "location": "Denver, CO",
+    "serviceArea": "State",
+    "specificServiceArea": "Colorado",
+    "newsroomType": "Nonprofit 501(c)3",
+    "network": null,
+    "mission": "The Colorado Sun is a journalist-founded, award-winning and nonprofit news outlet based in Denver that strives to cover all of Colorado so that our state — our community — can better understand itself.",
+    "topics": [
+      "Water",
+      "Extreme weather",
+      "Data centers",
+      "Energy",
+      "Conservation & Land Use",
+      "Agriculture & Food Systems",
+      "Government & Policy"
+    ],
+    "states": [
+      "Colorado"
+    ]
+  },
+  {
+    "id": 46665,
+    "name": "The Current",
+    "website": "https://thecurrentga.org/",
+    "location": "Savannah, GA",
+    "serviceArea": "Hyperlocal/local",
+    "specificServiceArea": "Coastal Georgia",
+    "newsroomType": "Nonprofit 501(c)3",
+    "network": null,
+    "mission": "The Current is an inclusive nonprofit, independent news organization which provides in-depth watchdog journalism for Savannah and Coastal Georgia’s communities.",
+    "topics": [
+      "Conservation & Land Use",
+      "Government & Policy",
+      "Energy",
+      "Data centers"
+    ],
+    "states": [
+      "Georgia"
+    ]
+  },
+  {
+    "id": 77832,
+    "name": "The Lens",
+    "website": "https://thelensnola.org/",
+    "location": "New Orleans, LA",
+    "serviceArea": "State",
+    "specificServiceArea": "Louisiana",
+    "newsroomType": "Nonprofit 501(c)3",
+    "network": "Desk",
+    "mission": "The Lens is the New Orleans area’s first nonprofit, nonpartisan public-interest newsroom, dedicated to unique investigative and explanatory journalism.",
+    "topics": [
+      "Conservation & Land Use",
+      "Data centers",
+      "Energy",
+      "Agriculture & Food Systems",
+      "Government & Policy"
+    ],
+    "states": [
+      "Louisiana"
+    ]
+  },
+  {
+    "id": 71454,
+    "name": "The Margin",
+    "website": "https://themargin.us/who-we-are",
+    "location": null,
+    "serviceArea": "U.S.",
+    "specificServiceArea": "U.S.",
+    "newsroomType": "Nonprofit 501(c)3",
+    "network": null,
+    "mission": "The Margin is an independent, non-profit publication that centers the people and places most affected by environmental and climate injustice in the United States. Our investigative and data-driven stories expose the ongoing cycle of unjust actions that intentionally push the poor and people of color to the edge of society while driving our planet to the brink of collapse. Our work holds the powerful accountable, corrects the historical record, and uplifts solutions from frontline communities, moving us closer to a more just and sustainable future.",
+    "topics": [
+      "Environmental justice"
+    ],
+    "states": []
+  },
+  {
+    "id": 37841,
+    "name": "The Marjorie",
+    "website": "https://themarjorie.org/",
+    "location": "Florida",
+    "serviceArea": "State",
+    "specificServiceArea": "Florida",
+    "newsroomType": "Nonprofit 501(c)3",
+    "network": null,
+    "mission": "Our mission is to report on Florida’s deeper human story, recognizing that the crises we face are not simple scenarios with straightforward solutions. We embrace the gray area, with all of its messy nuance and complex history.",
+    "topics": [
+      "Conservation & Land Use",
+      "Water",
+      "Sustainability",
+      "Extreme weather"
+    ],
+    "states": [
+      "Florida"
+    ]
+  },
+  {
+    "id": 32847,
+    "name": "The New Lede",
+    "website": "https://www.thenewlede.org/",
+    "location": "Washington, DC",
+    "serviceArea": "U.S.",
+    "specificServiceArea": null,
+    "newsroomType": "Nonprofit 501(c)3",
+    "network": null,
+    "mission": "The New Lede is an award-winning nonprofit newsroom specializing in coverage at the intersection of human and environmental health, food, and agriculture.",
+    "topics": [
+      "Government & Policy",
+      "Agriculture & Food Systems",
+      "Environmental justice"
+    ],
+    "states": []
+  },
+  {
+    "id": 80804,
+    "name": "The Post & Courier: Rising Waters Desk",
+    "website": "https://www.postandcourier.com/rising-waters/",
+    "location": "Charleston, SC",
+    "serviceArea": "State",
+    "specificServiceArea": "South Carolina",
+    "newsroomType": "For profit",
+    "network": null,
+    "mission": "The Post and Courier, the South's oldest daily newspaper, traces its roots to The Courier, founded in 1803, and The Evening Post, founded in 1894. In 1926, the two newspapers were drawn closer together when The Courier, which had then become The News and Courier, was purchased by The Evening Post Industries Company. Both newspapers maintained separate news staffs until the 1980s, when those staffs were combined. In 1991, when it became apparent that reading habits were better served by a single edition of the newspaper - a morning edition - the two papers were merged to become The Post and Courier. The newspaper is now published by The Post and Courier, Inc.",
+    "topics": [
+      "Extreme weather",
+      "Conservation & Land Use",
+      "Data centers",
+      "Energy",
+      "Government & Policy"
+    ],
+    "states": [
+      "South Carolina"
+    ]
+  },
+  {
+    "id": 57441,
+    "name": "The Revelator",
+    "website": "https://therevelator.org/",
+    "location": "Tucson, AZ",
+    "serviceArea": "U.S.",
+    "specificServiceArea": null,
+    "newsroomType": "Nonprofit 501(c)3",
+    "network": null,
+    "mission": "The Revelator is an editorially independent news and ideas initiative of the Center for Biological Diversity, covering biodiversity, climate, and environmental policy.",
+    "topics": [
+      "Water",
+      "Conservation & Land Use",
+      "Extreme weather",
+      "Sustainability"
+    ],
+    "states": []
+  },
+  {
+    "id": 46228,
+    "name": "The Uproot Project",
+    "website": "https://uprootproject.org/",
+    "location": null,
+    "serviceArea": "U.S.",
+    "specificServiceArea": "U.S.",
+    "newsroomType": "Nonprofit 501(c)3",
+    "network": null,
+    "mission": "We are The Uproot Project, a network with a mission to bring diverse voices to the forefront of environmental and climate journalism.",
+    "topics": [
+      "Environmental justice"
+    ],
+    "states": []
+  },
+  {
+    "id": 28799,
+    "name": "The Xylom",
+    "website": "https://www.thexylom.com/about-us",
+    "location": "Atlanta, GA",
+    "serviceArea": "Global",
+    "specificServiceArea": null,
+    "newsroomType": "Nonprofit 501(c)3",
+    "network": null,
+    "mission": "Founded in 2018 and based in Atlanta, The Xylom reports on everything you need to know about global health and environmental disparities.",
+    "topics": [
+      "Environmental justice",
+      "Extreme weather",
+      "Water",
+      "Energy"
+    ],
+    "states": []
+  },
+  {
+    "id": 95246,
+    "name": "Underscore Native News",
+    "website": "https://www.underscore.news/",
+    "location": "Portland, OR",
+    "serviceArea": "Multi-state regional",
+    "specificServiceArea": "Pacific Northwest",
+    "newsroomType": "Nonprofit 501(c)3",
+    "network": null,
+    "mission": "Underscore produces Indigenous-centered journalism that illuminates the intersections of sovereignty and justice and portrays the rich diversity of Native communities in the Pacific Northwest.",
+    "topics": [
+      "Environmental justice",
+      "Conservation & Land Use",
+      "Extreme weather",
+      "Agriculture & Food Systems",
+      "Water"
+    ],
+    "states": [
+      "Oregon",
+      "Washington"
+    ]
+  },
+  {
+    "id": 77749,
+    "name": "Vermont Public",
+    "website": "https://www.vermontpublic.org/",
+    "location": "Colchester, VT",
+    "serviceArea": "State",
+    "specificServiceArea": "Vermont",
+    "newsroomType": "Public Media",
+    "network": null,
+    "mission": "Vermont Public informs, educates, and entertains through public service journalism and enlightening content rooted in Vermont. Our storytelling enriches lives and fosters community connection and understanding.",
+    "topics": [
+      "Conservation & Land Use",
+      "Sustainability",
+      "Extreme weather",
+      "Government & Policy"
+    ],
+    "states": [
+      "Vermont"
+    ]
+  },
+  {
+    "id": 38963,
+    "name": "Voice of San Diego",
+    "website": "https://voiceofsandiego.org/",
+    "location": "San Diego, CA",
+    "serviceArea": "Hyperlocal/local",
+    "specificServiceArea": "San Diego, CA",
+    "newsroomType": "Nonprofit 501(c)3",
+    "network": null,
+    "mission": "Voice of San Diego is a nonprofit investigative journalism newsroom with a dedicated environment and energy beat.",
+    "topics": [
+      "Water",
+      "Government & Policy",
+      "Conservation & Land Use",
+      "Environmental justice"
+    ],
+    "states": [
+      "California"
+    ]
+  },
+  {
+    "id": 76511,
+    "name": "VTDigger",
+    "website": "https://vtdigger.org/",
+    "location": "Montpelier, VT",
+    "serviceArea": "State",
+    "specificServiceArea": "Vermont",
+    "newsroomType": "Nonprofit 501(c)3",
+    "network": null,
+    "mission": "VTDigger is a nonprofit, nonpartisan digital news organization covering issues of statewide importance in Vermont. It is a project of the Vermont Journalism Trust, a 501(c)3 nonprofit organization.",
+    "topics": [
+      "Energy",
+      "Government & Policy",
+      "Agriculture & Food Systems",
+      "Conservation & Land Use"
+    ],
+    "states": [
+      "Vermont"
+    ]
+  },
+  {
+    "id": 53620,
+    "name": "WBEZ",
+    "website": "https://www.wbez.org/",
+    "location": "Chicago, IL",
+    "serviceArea": "Hyperlocal/local",
+    "specificServiceArea": "Chicago",
+    "newsroomType": "Public Media",
+    "network": "Grist",
+    "mission": "We fulfill our mission at WBEZ by serving as a cornerstone of the public conversation; as a central pillar of our civic community; and by reasserting ourselves as the heart of innovation within public media. We amplify the public conversation by telling the stories that matter; stories that provoke thought, entertain, capture emotion and inspire action.",
+    "topics": [
+      "Sustainability"
+    ],
+    "states": [
+      "Illinois"
+    ]
+  },
+  {
+    "id": 71665,
+    "name": "WBUR, Boston University",
+    "website": "https://www.wbur.org/",
+    "location": "Boston, MA",
+    "serviceArea": "State",
+    "specificServiceArea": "Massachusetts",
+    "newsroomType": "Public Media",
+    "network": null,
+    "mission": "Our mission is to produce high-quality journalism and enriching experiences that foster understanding, connection and community for an expanding circle of people.",
+    "topics": [
+      "Conservation & Land Use",
+      "Government & Policy",
+      "Energy",
+      "Extreme weather"
+    ],
+    "states": [
+      "Massachusetts"
+    ]
+  },
+  {
+    "id": 43900,
+    "name": "WCMU Public Radio",
+    "website": "https://www.wcmu.org/about-wcmu",
+    "location": "Mount Pleasant, MI",
+    "serviceArea": "Hyperlocal/local",
+    "specificServiceArea": "Central Michigan",
+    "newsroomType": "Public Media",
+    "network": "Harvest",
+    "mission": "As one of Central Michigan University’s principal public service commitments, WCMU Public Media has provided television and radio programming and other outreach activities for over 50 years, to residents of 48 counties in Michigan, and portions of Ontario.  With four television and eight radio stations, WCMU Public Media reaches over 1.3 million people.",
+    "topics": [
+      "Agriculture & Food Systems",
+      "Water",
+      "Government & Policy"
+    ],
+    "states": [
+      "Michigan"
+    ]
+  },
+  {
+    "id": 53057,
+    "name": "WFAE",
+    "website": "https://www.wfae.org/",
+    "location": "Charlotte, NC",
+    "serviceArea": "Hyperlocal/local",
+    "specificServiceArea": "Charlotte",
+    "newsroomType": "Public Media",
+    "network": null,
+    "mission": "Journalism that informs, enriches, and inspires.",
+    "topics": [
+      "Energy",
+      "Sustainability",
+      "Government & Policy",
+      "Extreme weather",
+      "Environmental justice"
+    ],
+    "states": [
+      "North Carolina"
+    ]
+  },
+  {
+    "id": 96026,
+    "name": "WGBH",
+    "website": "https://www.wgbh.org/news",
+    "location": "Boston, MA",
+    "serviceArea": "State",
+    "specificServiceArea": "Massachusetts",
+    "newsroomType": "Public Media",
+    "network": null,
+    "mission": "GBH is the leading multiplatform creator for public media in America. We are the proud producer of signature PBS programs FRONTLINE, MASTERPIECE, ANTIQUES ROADSHOW, NOVA, AMERICAN EXPERIENCE, as well as a distinctive local news service. We deliver compelling stories, experiences, and information to audiences wherever they are: on YouTube, social media, television (GBH 2, GBH 44, WORLD, Create, Boston Kids and Family, and GBH Kids); radio (GBH 89.7, CRB Classical 99.5); and on gbh.org.",
+    "topics": [
+      "Conservation & Land Use"
+    ],
+    "states": [
+      "Massachusetts"
+    ]
+  },
+  {
+    "id": 95325,
+    "name": "WHYY",
+    "website": "https://whyy.org/whyy-news-climate-desk/",
+    "location": "Philadelphia, PA",
+    "serviceArea": "Multi-state regional",
+    "specificServiceArea": "Philadelphia, Southeast Pennsylvania, Delaware, New Jersey",
+    "newsroomType": "Public Media",
+    "network": null,
+    "mission": "Our Mission is to engage audiences, expand perspectives and empower communities through continuous learning, truthful reporting, healthy dialogue and amplification of diverse voices.",
+    "topics": [
+      "Data centers",
+      "Conservation & Land Use",
+      "Sustainability",
+      "Water",
+      "Government & Policy",
+      "Extreme weather"
+    ],
+    "states": [
+      "Pennsylvania",
+      "Delaware",
+      "New Jersey"
+    ]
+  },
+  {
+    "id": 82336,
+    "name": "Window to the World Communications Inc",
+    "website": "https://www.wttw-wfmt.com/",
+    "location": "Chicago, IL",
+    "serviceArea": "Hyperlocal/local",
+    "specificServiceArea": "Chicago",
+    "newsroomType": "Public Media",
+    "network": null,
+    "mission": "Window To The World Communications, Inc. is the parent organization of WTTW and WFMT.",
+    "topics": [
+      "Agriculture & Food Systems",
+      "Conservation & Land Use"
+    ],
+    "states": [
+      "Illinois"
+    ]
+  },
+  {
+    "id": 61330,
+    "name": "Wisconsin Public Radio",
+    "website": "https://www.wpr.org/",
+    "location": "Statewide, WI",
+    "serviceArea": "State",
+    "specificServiceArea": "Wisconsin",
+    "newsroomType": "Public Media",
+    "network": "Harvest",
+    "mission": "University of Wisconsin Professors Edward Bennett and Earle M. Terry founded WPR’s predecessor, 9XM. The station, which became WHA, began broadcasting information to the public in 1917 and launched an institution committed to sharing the educational resources of the university with the state’s residents. Today, WPR’s news, music, conversation and entertainment programs inform, inspire and build communities throughout Wisconsin and around the world on two networks — WPR News and WPR Music — and 39 stations. Our commitment to the highest standards of news and cultural content reflects our belief that people and communities thrive with an open exchange of ideas and information. Find all the ways to listen here.",
+    "topics": [
+      "Agriculture & Food Systems",
+      "Government & Policy",
+      "Conservation & Land Use",
+      "Water"
+    ],
+    "states": [
+      "Wisconsin"
+    ]
+  },
+  {
+    "id": 23711,
+    "name": "Wisconsin Watch",
+    "website": "https://wisconsinwatch.org/",
+    "location": "Madison, WI",
+    "serviceArea": "State",
+    "specificServiceArea": "Wisconsin",
+    "newsroomType": "Nonprofit 501(c)3",
+    "network": "Desk",
+    "mission": "Using journalism to make the communities of Wisconsin strong, informed and connected.",
+    "topics": [
+      "Agriculture & Food Systems",
+      "Government & Policy",
+      "Data centers"
+    ],
+    "states": [
+      "Wisconsin"
+    ]
+  },
+  {
+    "id": 94183,
+    "name": "WLRN",
+    "website": "https://www.wlrn.org/",
+    "location": "Miami, FL",
+    "serviceArea": "Hyperlocal/local",
+    "specificServiceArea": "South Florida",
+    "newsroomType": "Public Media",
+    "network": null,
+    "mission": "The Mission of WLRN Public Radio and Television is to provide information, entertainment, and learning services with a commitment to excellence in serving local, national and international communities.",
+    "topics": [
+      "Agriculture & Food Systems",
+      "Extreme weather",
+      "Conservation & Land Use",
+      "Government & Policy"
+    ],
+    "states": [
+      "Florida"
+    ]
+  },
+  {
+    "id": 45505,
+    "name": "World Media Foundation Inc",
+    "website": "https://www.loe.org/",
+    "location": "Boston, MA",
+    "serviceArea": "U.S.",
+    "specificServiceArea": null,
+    "newsroomType": "Public Media",
+    "network": null,
+    "mission": "Living on Earth with Steve Curwood is the weekly environmental news and information program distributed by PRX. Every week approximately 250 Public Radio stations broadcast Living on Earth's news, features, interviews and commentary on a broad range of ecological issues.",
+    "topics": [
+      "Conservation & Land Use",
+      "Sustainability"
+    ],
+    "states": []
+  },
+  {
+    "id": 53561,
+    "name": "WUSF",
+    "website": "https://www.wusf.org/",
+    "location": "Tampa, FL",
+    "serviceArea": "Hyperlocal/local",
+    "specificServiceArea": "West Central Florida",
+    "newsroomType": "Public Media",
+    "network": null,
+    "mission": "We enrich the mind and inspire curiosity.",
+    "topics": [
+      "Agriculture & Food Systems",
+      "Extreme weather",
+      "Conservation & Land Use",
+      "Energy"
+    ],
+    "states": [
+      "Florida"
+    ]
+  },
+  {
+    "id": 13672,
+    "name": "WUWM",
+    "website": "https://www.wuwm.com/",
+    "location": "Milwaukee, WI",
+    "serviceArea": "Hyperlocal/local",
+    "specificServiceArea": "Milwaukee",
+    "newsroomType": "Public Media",
+    "network": null,
+    "mission": "WUWM 89.7 FM - Milwaukee’s NPR is committed to empowering the public to effect change through in-depth news, thoughtful conversations and community connections. Our mission is to weave stories of southeastern Wisconsin together to engage, inspire, and connect people with a shared understanding of each other, the region and the world.",
+    "topics": [
+      "Water",
+      "Conservation & Land Use",
+      "Data centers",
+      "Government & Policy",
+      "Environmental justice"
+    ],
+    "states": [
+      "Wisconsin"
+    ]
+  },
+  {
+    "id": 75056,
+    "name": "WWNO",
+    "website": "https://www.wwno.org/coastal-desk",
+    "location": "New Orleans, LA",
+    "serviceArea": "Hyperlocal/local",
+    "specificServiceArea": "New Orleans",
+    "newsroomType": "Public Media",
+    "network": "Desk",
+    "mission": "New Orleans Public Radio is a member-supported news and cultural organization dedicated to telling Southeast Louisiana’s stories to the world and bringing the world to Southeast Louisiana",
+    "topics": [
+      "Conservation & Land Use",
+      "Water",
+      "Energy",
+      "Extreme weather",
+      "Government & Policy"
+    ],
+    "states": [
+      "Louisiana"
+    ]
+  },
+  {
+    "id": 14702,
+    "name": "WXPR",
+    "website": "https://www.wxpr.org/",
+    "location": "Rhinelander, WI",
+    "serviceArea": "Multi-state regional",
+    "specificServiceArea": "Northern Wisconsin, Northern Michigan",
+    "newsroomType": "Public Media",
+    "network": "Desk, Harvest",
+    "mission": "WXPR exists to inform, entertain, and engage our community; enrich lives with music, information, and interaction; and build positive lasting relationships.",
+    "topics": [
+      "Energy",
+      "Agriculture & Food Systems",
+      "Water",
+      "Government & Policy",
+      "Environmental justice"
+    ],
+    "states": [
+      "Wisconsin",
+      "Michigan"
+    ]
+  },
+  {
+    "id": 59282,
+    "name": "WyoFile",
+    "website": "https://wyofile.com/",
+    "location": "Lander, WY",
+    "serviceArea": "State",
+    "specificServiceArea": "Wyoming",
+    "newsroomType": "Nonprofit 501(c)3",
+    "network": null,
+    "mission": "WyoFile is an independent, reader-funded, nonprofit news organization focused on the people, places and policy of Wyoming, including a dedicated energy and climate beat.",
+    "topics": [
+      "Energy",
+      "Agriculture & Food Systems",
+      "Conservation & Land Use",
+      "Water",
+      "Government & Policy",
+      "Environmental justice"
+    ],
+    "states": [
+      "Wyoming"
+    ]
+  },
+  {
+    "id": 96503,
+    "name": "Wyoming Public Media",
+    "website": "https://www.wyomingpublicmedia.org/",
+    "location": "Laramie, WY",
+    "serviceArea": "State",
+    "specificServiceArea": "Wyoming",
+    "newsroomType": "Public Media",
+    "network": "Mountain West",
+    "mission": "Wyoming Public Radio is the state's only member of National Public Radio and an affiliate of Public Radio International and American Public Media. NPR, APM, and PRI are sources of such favorites as Morning Edition®, and All Things Considered®.",
+    "topics": [
+      "Energy",
+      "Water",
+      "Conservation & Land Use",
+      "Government & Policy",
+      "Environmental justice"
+    ],
+    "states": [
+      "Wyoming"
+    ]
+  },
+  {
+    "id": 43210,
+    "name": "WYSO",
+    "website": "https://www.wyso.org/",
+    "location": "Yellow Springs, OH",
+    "serviceArea": "Hyperlocal/local",
+    "specificServiceArea": "Southwest Ohio",
+    "newsroomType": "Public Media",
+    "network": null,
+    "mission": "WYSO is a non-profit, community-owned public radio station providing information & inspiration through news, music, and storytelling.",
+    "topics": [
+      "Energy",
+      "Data centers",
+      "Agriculture & Food Systems",
+      "Government & Policy",
+      "Environmental justice",
+      "Conservation & Land Use"
+    ],
+    "states": [
+      "Ohio"
+    ]
+  },
+  {
+    "id": 48697,
+    "name": "Yale Climate Connections",
+    "website": "https://yaleclimateconnections.org/",
+    "location": "New Haven, CT",
+    "serviceArea": "Global",
+    "specificServiceArea": null,
+    "newsroomType": "Nonprofit (university-affiliated)",
+    "network": null,
+    "mission": "To produce journalism that improves public understanding and engagement with climate change, its consequences, and potential solutions in the U.S. and beyond.",
+    "topics": [
+      "Extreme weather",
+      "Government & Policy",
+      "Sustainability",
+      "Environmental justice"
+    ],
+    "states": []
+  },
+  {
+    "id": 19313,
+    "name": "Yale Environment 360",
+    "website": "https://e360.yale.edu/",
+    "location": "New Haven, CT",
+    "serviceArea": "Global",
+    "specificServiceArea": null,
+    "newsroomType": "Nonprofit (university-affiliated)",
+    "network": null,
+    "mission": "Yale Environment 360 is an online magazine offering reporting, opinion, and analysis on global environmental issues. We feature original articles by journalists, academics, advocates, and policymakers, as well as films, photo essays, and a regular digest of environmental news.",
+    "topics": [
+      "Energy",
+      "Conservation & Land Use",
+      "Water",
+      "Agriculture & Food Systems",
+      "Sustainability",
+      "Government & Policy",
+      "Extreme weather"
+    ],
+    "states": []
+  }
+]
