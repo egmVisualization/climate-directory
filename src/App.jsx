@@ -5,6 +5,7 @@ import placeList from './data/places.json'
 import iaLogo from './assets/ia-logo.png'
 import { findTopics, findPlaces, filterOrganizations, isNational } from './search'
 import './App.css'
+import { csvFormat } from 'd3'
 
 const allTopics = topicList.map(t => t.topic)
 const allPlaces = placeList.map(p => p.place).sort()
@@ -154,6 +155,33 @@ function App() {
     ? filterOrganizations(nationalOrgs, selectedTopics, [])
     : []
 
+    const totalResults = regionalResults.length + nationalResults.length
+
+function exportResults() {
+  // One row per organization, with the column names visitors will see
+  const rows = [...regionalResults, ...nationalResults].map(org => ({
+    'Organization': org.name,
+    'Website': org.website,
+    'Location': org.location,
+    'General service area': org.serviceArea,
+    'Specific service area': org.specificServiceArea ?? '',
+    'States': org.states.join('; '),
+    'Newsroom type': org.newsroomType,
+    'Network': org.network ?? '',
+    'Topics': org.topics.join('; '),
+    'Mission': org.mission,
+  }))
+
+  // Build the file and download it
+  const csv = '\ufeff' + csvFormat(rows)
+  const file = new Blob([csv], { type: 'text/csv;charset=utf-8' })
+  const link = document.createElement('a')
+  link.href = URL.createObjectURL(file)
+  link.download = 'climate-newsrooms.csv'
+  link.click()
+  URL.revokeObjectURL(link.href)
+}
+
   const regionalTitle = selectedPlaces.length
     ? `Newsrooms serving ${listInWords(selectedPlaces)}`
     : 'Newsrooms serving states, regions, and communities'
@@ -167,11 +195,21 @@ function App() {
 
       <main>
         <p className="intro">
-          Find newsrooms that cover the environment and climate change. Tell us
+          Find newsrooms that cover the environment, climate, and related issues. Tell us
           what you care about and where, and we’ll show the organizations doing
-          that work. Are we missing a news provider?{' '}
-          <a href="https://forms.gle/your-form-address" target="_blank" rel="noopener">Let us know</a>, and we’ll add them to the directory.
+          that work.
+          </p> 
+          <p className="intro-note">
+          Are we missing a news provider?{' '}
+          <a href="https://docs.google.com/forms/d/e/1FAIpQLScPBEEJIeJhUhyOcgyR5OeJJI-6Q6lIXyLHdgk4QJ4avgIoJA/viewform?usp=dialog" target="_blank" rel="noopener">Let us know</a>, and we’ll add them to the directory.
         </p>
+
+       <details className="about">
+        <summary>About this directory</summary>
+        <div className="about-content">
+          <p>Project of the MacArthur Foundation and Press Forward.</p>
+        </div>
+      </details>
     
         {/* ===== Search panel ===== */}
         <form className="search-panel" onSubmit={handleSearch}>
@@ -243,6 +281,10 @@ function App() {
             </button>
             <button type="button" className="clear-button" onClick={clearSearch}>
               Clear search
+            </button>
+            <button type="button" className="export-button"
+              onClick={exportResults} disabled={totalResults === 0}>
+              Download results (CSV)
             </button>
           </div>
         </form>

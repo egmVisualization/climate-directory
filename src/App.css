@@ -29,8 +29,33 @@
 
 .intro {
   max-width: 70ch;
-  margin: 1.5rem 0 2rem;
+  margin: 1.5rem 0.5 rem;
   font-size: 1.05rem;
+}
+
+.intro-note {
+  margin: 0 0 1.5rem;
+  max-width: 70ch;
+  font-size: 1.05rem;
+  font-style: italic;
+}
+
+.about {
+  margin: 0 0 2rem;
+  border-top: 1px solid var(--pale-blue);
+  border-bottom: 1px solid var(--pale-blue);
+}
+
+.about summary {
+  padding: 0.85rem 0;
+  font-weight: 700;
+  color: var(--ia-navy);
+  cursor: pointer;
+}
+
+.about-content {
+  max-width: 70ch;
+  padding-bottom: 0.5rem;
 }
 
 /* ===== Search panel ===== */
