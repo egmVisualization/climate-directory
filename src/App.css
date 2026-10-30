@@ -201,6 +201,20 @@
   text-decoration: underline;
 }
 
+.about-content h3 {
+  margin: 1.5rem 0 0.5rem;
+  font-size: 1.1rem;
+}
+
+.about-content ul {
+  margin: 0 0 1rem;
+  padding-left: 1.25rem;
+}
+
+.about-content li {
+  margin-bottom: 0.4rem;
+}
+
 /* Visible outline for keyboard users */
 button:focus-visible,
 select:focus-visible,

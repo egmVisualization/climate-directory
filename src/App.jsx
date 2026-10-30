@@ -87,20 +87,24 @@ function OrgCard({ org, selectedTopics = [] }) {
   )
 }
 // ===== A group of results (becomes cards in the next step) =====
-function ResultsGroup({ title, orgs, emptyMessage, selectedTopics}) {
+// ===== A group of results =====
+function ResultsGroup({ title, orgs, emptyMessage, note, selectedTopics }) {
   return (
     <section className="results-group">
       <h2>
         {title} <span className="count">({orgs.length})</span>
       </h2>
       {orgs.length === 0 ? (
-        <p className="empty">{emptyMessage}</p>
+        <div className="empty">{emptyMessage}</div>
       ) : (
-        <div className="card-grid">
-  {orgs.map(org => (
-    <OrgCard key={org.id} org={org} selectedTopics={selectedTopics} />
-  ))}
-</div>
+        <>
+          {note && <p className="thin-note">{note}</p>}
+          <div className="card-grid">
+            {orgs.map(org => (
+              <OrgCard key={org.id} org={org} selectedTopics={selectedTopics} />
+            ))}
+          </div>
+        </>
       )}
     </section>
   )
@@ -156,6 +160,8 @@ function App() {
     : []
 
     const totalResults = regionalResults.length + nationalResults.length
+    const showThinNote =
+  selectedPlaces.length > 0 && regionalResults.length > 0 && regionalResults.length <= 3
 
 function exportResults() {
   // One row per organization, with the column names visitors will see
@@ -207,7 +213,42 @@ function exportResults() {
        <details className="about">
         <summary>About this directory</summary>
         <div className="about-content">
-          <p>Project of the MacArthur Foundation and Press Forward.</p>
+          <p>This directory is a projectof the MacArthur Foundation and Press Forward.</p>
+
+          <p>This directory is for funders that are interested in supporting journalism
+            dedicated to climate, environment, and related topics but are unsure where
+            to find potential grantees and where they work. It provides details for
+            over 100 newsrooms.
+          </p>
+
+          <h3>Who is and is not included, and why</h3>
+
+          <p> This directory includes organizations that are either dedicated to covering
+            climate, environment, and related topics or those that have a designated
+            reporter, vertical, or otherwise have an established and current track
+            record for producing such journalism.
+          </p>
+
+          <p>
+            The non-exhaustive list is meant to point funders to organizations that
+          already work in this area, but it can also be used to identify gaps. 
+          If you are unable to find a match, we encourage you to reach out to news providers
+          that are doing good work to gauge interest in developing dedicated coverage for 
+          an issue you care about.
+          </p>
+
+          <p>Specific criteria for inclusion include:</p>
+
+          <ul>
+            <li>
+              News providers that have active, dedicated (a desk, reporter, vertical,
+              etc.) coverage of climate, environment, or related topics
+            </li>
+            <li>
+              Nonprofit, public media, or recent history of being able to receive
+              philanthropic funding
+            </li>
+          </ul>
         </div>
       </details>
     
@@ -294,8 +335,29 @@ function exportResults() {
           title={regionalTitle}
           orgs={regionalResults}
           selectedTopics={selectedTopics}
-          emptyMessage="No newsrooms in the directory match this search. Try removing a topic, adding a nearby state, or adding U.S. and global organizations."
-        />
+          note={showThinNote
+            ? "Only a few newsrooms match. This directory isn’t exhaustive, and local public media, nonprofit newsrooms, and community media outlets may be open to developing environment coverage."
+            : null}
+          emptyMessage={
+            <>
+              <p>
+                <strong>No newsrooms in the directory match this search, but that
+                doesn’t mean there isn’t a partner here.</strong> Many local outlets
+                cover the environment without a dedicated beat, and some would welcome
+                support to build one. Consider reaching out to:
+              </p>
+              <ul>
+                <li>Your local public radio or TV station</li>
+                <li>Nonprofit newsrooms already serving the area</li>
+                <li>Established local outlets whose coverage could grow into an environment beat</li>
+              </ul>
+              <p>
+                You can also broaden your search by removing a topic, adding a nearby
+                state, or adding U.S. and global organizations.
+              </p>
+          </>
+      }
+    />
 
         {includeNational && (
           <ResultsGroup
