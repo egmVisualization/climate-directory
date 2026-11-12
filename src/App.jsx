@@ -121,6 +121,7 @@ function App() {
   const [selectedPlaces, setSelectedPlaces] = useState([])
 
   const [includeNational, setIncludeNational] = useState(false)
+  const [hasSearched, setHasSearched] = useState(false)
   const [notes, setNotes] = useState([])
 
   function handleSearch(event) {
@@ -129,6 +130,7 @@ function App() {
     const foundPlaces = findPlaces(placeText)
     setSelectedTopics(foundTopics)
     setSelectedPlaces(foundPlaces)
+    setHasSearched(true)
 
     const newNotes = []
     if (topicText.trim() && foundTopics.length === 0) {
@@ -146,15 +148,39 @@ function App() {
     setSelectedTopics([])
     setSelectedPlaces([])
     setNotes([])
+    setHasSearched(false)
+    setIncludeNational(false)
   }
 
   const removeTopic = topic => setSelectedTopics(selectedTopics.filter(t => t !== topic))
   const removePlace = place => setSelectedPlaces(selectedPlaces.filter(p => p !== place))
-  const addTopic = topic => topic && setSelectedTopics([...selectedTopics, topic])
-  const addPlace = place => place && setSelectedPlaces([...selectedPlaces, place])
+  const addTopic = topic => {
+  if (topic) {
+    setSelectedTopics([...selectedTopics, topic])
+    setHasSearched(true)
+    }
+  }
+  const addPlace = place => {
+  if (place) {
+    setSelectedPlaces([...selectedPlaces, place])
+    setHasSearched(true)
+    }
+  }
+
+  function showAll() {
+  setTopicText('')
+  setPlaceText('')
+  setSelectedTopics([])
+  setSelectedPlaces([])
+  setNotes([])
+  setHasSearched(true)
+  setIncludeNational(true)
+}
 
   // The results, recalculated every time a selection changes
-  const regionalResults = filterOrganizations(regionalOrgs, selectedTopics, selectedPlaces)
+  const regionalResults = hasSearched
+    ? filterOrganizations(regionalOrgs, selectedTopics, selectedPlaces)
+    : []
   const nationalResults = includeNational
     ? filterOrganizations(nationalOrgs, selectedTopics, [])
     : []
@@ -318,7 +344,10 @@ function exportResults() {
           <div className="panel-actions">
             <button type="button" className="toggle" aria-pressed={includeNational}
               onClick={() => setIncludeNational(!includeNational)}>
-              {includeNational ? 'Remove' : 'Add'} U.S. and global organizations
+              {includeNational ? 'Hide' : 'Show'} U.S. and global organizations
+            </button>
+            <button type="button" className="show-all-button" onClick={showAll}>
+              Show all
             </button>
             <button type="button" className="clear-button" onClick={clearSearch}>
               Clear search
@@ -331,33 +360,42 @@ function exportResults() {
         </form>
 
         {/* ===== Results ===== */}
-        <ResultsGroup
-          title={regionalTitle}
-          orgs={regionalResults}
-          selectedTopics={selectedTopics}
-          note={showThinNote
-            ? "Only a few newsrooms match. This directory isn’t exhaustive, and local public media, nonprofit newsrooms, and community media outlets may be open to developing environment coverage."
-            : null}
-          emptyMessage={
-            <>
-              <p>
-                <strong>No newsrooms in the directory match this search, but that
-                doesn’t mean there isn’t a partner here.</strong> Many local outlets
-                cover the environment without a dedicated beat, and some would welcome
-                support to build one. Consider reaching out to:
-              </p>
-              <ul>
-                <li>Your local public radio or TV station</li>
-                <li>Nonprofit newsrooms already serving the area</li>
-                <li>Established local outlets whose coverage could grow into an environment beat</li>
-              </ul>
-              <p>
-                You can also broaden your search by removing a topic, adding a nearby
-                state, or adding U.S. and global organizations.
-              </p>
-          </>
-      }
-    />
+        {!hasSearched && !includeNational && (
+          <p className="start-prompt">
+            Search by topic and place to find newsrooms, or select{' '}
+            <strong>Show all</strong> to browse the full directory.
+          </p>
+        )}
+
+        {hasSearched && (
+          <ResultsGroup
+            title={regionalTitle}
+            orgs={regionalResults}
+            selectedTopics={selectedTopics}
+            note={showThinNote
+              ? "Only a few newsrooms match. This directory isn’t exhaustive, and local public media and nonprofit newsrooms may be open to developing environment coverage."
+              : null}
+            emptyMessage={
+              <>
+                <p>
+                  <strong>No newsrooms in the directory match this search, but that
+                  doesn’t mean there isn’t a partner here.</strong> Many local outlets
+                  cover the environment without a dedicated beat, and some would welcome
+                  support to build one. Consider reaching out to:
+                </p>
+                <ul>
+                  <li>Your local public radio or TV station</li>
+                  <li>Nonprofit newsrooms already serving the area</li>
+                  <li>Established local outlets whose coverage could grow into an environment beat</li>
+                </ul>
+                <p>
+                  You can also broaden your search by removing a topic, adding a nearby
+                  state, or adding U.S. and global organizations.
+                </p>
+              </>
+            }
+          />
+        )}
 
         {includeNational && (
           <ResultsGroup

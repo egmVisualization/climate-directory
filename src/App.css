@@ -341,6 +341,28 @@ a:focus-visible {
   color: var(--white);
   background: var(--ia-navy);
 }
+
+.show-all-button {
+  padding: 0.5rem 1rem;
+  font: inherit;
+  font-size: 0.95rem;
+  font-weight: 600;
+  color: var(--ia-navy);
+  background: var(--white);
+  border: 1px solid var(--ia-navy);
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.show-all-button:hover {
+  color: var(--white);
+  background: var(--ia-navy);
+}
+
+.start-prompt {
+  margin-top: 2.5rem;
+  font-size: 1.05rem;
+}
 /* ===== Phones ===== */
 @media (max-width: 700px) {
   .site-header {
